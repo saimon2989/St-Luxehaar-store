@@ -37,7 +37,7 @@
     "card_style": "standard",
     "card_image_padding": 0,
     "card_text_alignment": "left",
-    "card_color_scheme": "background-2",
+    "card_color_scheme": "scheme-ba199d6d-1fb1-4b9e-ba84-f035c93f7dd3",
     "card_border_thickness": 0,
     "card_border_opacity": 10,
     "card_corner_radius": 0,
@@ -48,7 +48,7 @@
     "collection_card_style": "standard",
     "collection_card_image_padding": 0,
     "collection_card_text_alignment": "left",
-    "collection_card_color_scheme": "background-2",
+    "collection_card_color_scheme": "scheme-ba199d6d-1fb1-4b9e-ba84-f035c93f7dd3",
     "collection_card_border_thickness": 0,
     "collection_card_border_opacity": 10,
     "collection_card_corner_radius": 0,
@@ -59,7 +59,7 @@
     "blog_card_style": "standard",
     "blog_card_image_padding": 0,
     "blog_card_text_alignment": "left",
-    "blog_card_color_scheme": "background-2",
+    "blog_card_color_scheme": "scheme-ba199d6d-1fb1-4b9e-ba84-f035c93f7dd3",
     "blog_card_border_thickness": 0,
     "blog_card_border_opacity": 10,
     "blog_card_corner_radius": 0,
@@ -98,8 +98,9 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
-    "brand_headline": "",
-    "brand_description": "<p><\/p>",
+    "brand_headline": "ST LUXE HAAR",
+    "brand_description": "<p>es una marca que refleja elegancia, ofrece calidad a un<br\/>buen precio y se enfoca en la belleza y bienear de aquellos que usan a<br\/>sus produos y servicios, es una marca natural y limpia que busca que sus<br\/>usuarios vivan una experiencia lujosa sin necesidad de gaar mucho<br\/>dinero.<\/p>",
+    "brand_image": "shopify:\/\/shop_images\/Logo-luxe-haar_Sin_Fondo_0af39be4-d279-497f-8dc9-f5fce6876b6a.png",
     "brand_image_width": 100,
     "social_facebook_link": "",
     "social_instagram_link": "",
@@ -115,10 +116,12 @@
     "predictive_search_show_price": false,
     "currency_code_enabled": true,
     "cart_type": "notification",
-    "show_vendor": false,
-    "show_cart_note": false,
+    "show_vendor": true,
+    "show_cart_note": true,
     "cart_drawer_collection": "",
-    "cart_color_scheme": "background-1",
+    "cart_color_scheme": "scheme-ba199d6d-1fb1-4b9e-ba84-f035c93f7dd3",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Logo-luxe-haar_Sin_Fondo_0af39be4-d279-497f-8dc9-f5fce6876b6a.png",
+    "checkout_logo_position": "center",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
@@ -161,11 +164,11 @@
       },
       "inverse": {
         "settings": {
-          "background": "#242833",
+          "background": "#edcd5b",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#ffffff",
-          "button_label": "#000000",
+          "button_label": "#edcd5b",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
@@ -183,11 +186,11 @@
       },
       "accent-2": {
         "settings": {
-          "background": "#334fb4",
+          "background": "#af8028",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#ffffff",
-          "button_label": "#334fb4",
+          "button_label": "#af8028",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
