@@ -11,10 +11,18 @@
             "heading": "También te puede interesar",
             "menu": "footer"
           }
+        },
+        "link_list_Yh8FFb": {
+          "type": "link_list",
+          "settings": {
+            "heading": "categorías",
+            "menu": "main-menu"
+          }
         }
       },
       "block_order": [
-        "link_list_jMMyFq"
+        "link_list_jMMyFq",
+        "link_list_Yh8FFb"
       ],
       "settings": {
         "color_scheme": "background-2",
