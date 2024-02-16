@@ -11,10 +11,18 @@
             "text": "Ahorra 15% en pedidos superiores a $100.000 ♡ Usa el código 15OFF al finalizar la compra",
             "link": ""
           }
+        },
+        "announcement_T3Txyt": {
+          "type": "announcement",
+          "settings": {
+            "text": "Bienvenido a St LuxeHaar",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_T3Txyt"
       ],
       "settings": {
         "color_scheme": "accent-2",
