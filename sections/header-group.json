@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Ahorra 15% en pedidos superiores a $100.000 ♡ Usa el código 50%OFF al finalizar la compra",
+            "text": "Ahorra 15% en pedidos superiores a $100.000 ♡ Usa el código 15OFF al finalizar la compra",
             "link": ""
           }
         }
@@ -20,7 +20,7 @@
         "color_scheme": "accent-2",
         "show_line_separator": true,
         "show_social": false,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false
