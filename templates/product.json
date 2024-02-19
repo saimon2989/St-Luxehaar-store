@@ -6,7 +6,7 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text": "{{ product.vendor }}",
+            "text": "<strong>{{ product.vendor }}<\/strong>",
             "text_style": "uppercase"
           }
         },
