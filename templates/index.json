@@ -45,7 +45,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Últimos lanzamientos",
+        "title": "<strong>Últimos lanzamientos<\/strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
