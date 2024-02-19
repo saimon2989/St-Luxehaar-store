@@ -8,14 +8,14 @@
         "link_list_Yh8FFb": {
           "type": "link_list",
           "settings": {
-            "heading": "Menú",
+            "heading": "<strong>Menú<\/strong>",
             "menu": "main-menu"
           }
         },
         "link_list_jMMyFq": {
           "type": "link_list",
           "settings": {
-            "heading": "También te puede interesar",
+            "heading": "<strong>También te puede interesar<\/strong>",
             "menu": "footer"
           }
         }
@@ -27,7 +27,7 @@
       "settings": {
         "color_scheme": "accent-1",
         "newsletter_enable": true,
-        "newsletter_heading": "Suscríbete a nuestro newsletter",
+        "newsletter_heading": "<strong>Suscríbete a nuestro newsletter<\/strong>",
         "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": true,
