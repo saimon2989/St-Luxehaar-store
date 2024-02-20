@@ -1,3 +1,26 @@
+.desktop-banner {
+  /* Add styles for desktop banner */
+  width: 100%;
+}
+
+.mobile-banner {
+  /* Add styles for mobile banner */
+  width: 100%;
+  display: none; /* Hide mobile banner on desktop */
+}
+
+@media (max-width: 767px) {
+  .desktop-banner {
+    display: none; /* Hide desktop banner on mobile */
+  }
+
+  .mobile-banner {
+    /* Show mobile banner on mobile */
+    display: block;
+  }
+}
+
+
 .banner {
   display: flex;
   position: relative;
