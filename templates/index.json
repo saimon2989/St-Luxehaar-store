@@ -2,25 +2,9 @@
   "sections": {
     "banner_desktop_mobile_Xpjpmm": {
       "type": "banner-desktop-mobile",
-      "blocks": {
-        "desktop_banner_zRUBr3": {
-          "type": "desktop-banner",
-          "settings": {
-            "desktop_banner_image": "shopify:\/\/shop_images\/BANNER-WEB.jpg"
-          }
-        },
-        "mobile_banner_eEWPye": {
-          "type": "mobile-banner",
-          "settings": {
-            "mobile_banner_image": "shopify:\/\/shop_images\/BANNER_MOBILE.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "desktop_banner_zRUBr3",
-        "mobile_banner_eEWPye"
-      ],
       "settings": {
+        "desktop_banner_image": "shopify:\/\/shop_images\/BANNER-WEB.jpg",
+        "mobile_banner_image": "shopify:\/\/shop_images\/BANNER_MOBILE.jpg"
       }
     },
     "image_banner": {
