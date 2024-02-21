@@ -1,3 +1,4 @@
+{{ 'section-image-banner.css' | asset_url | stylesheet_tag }}
 {%- if section.settings.image != blank -%}
     {% if section.blocks %}
       {% for block in section.blocks %}
