@@ -1,5 +1,28 @@
 {
   "sections": {
+    "banner_desktop_mobile_hdiKyi": {
+      "type": "banner-desktop-mobile",
+      "blocks": {
+        "desktop_banner_yGeJkj": {
+          "type": "desktop-banner",
+          "settings": {
+            "desktop_banner_image": "shopify:\/\/shop_images\/BANNER-WEB.jpg"
+          }
+        },
+        "mobile_banner_mq6zKB": {
+          "type": "mobile-banner",
+          "settings": {
+            "mobile_banner_image": "shopify:\/\/shop_images\/BANNER_MOBILE.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "desktop_banner_yGeJkj",
+        "mobile_banner_mq6zKB"
+      ],
+      "settings": {
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -28,6 +51,7 @@
         "heading",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/BANNER-WEB.jpg",
         "image_overlay_opacity": 0,
@@ -72,6 +96,7 @@
     }
   },
   "order": [
+    "banner_desktop_mobile_hdiKyi",
     "image_banner",
     "featured_collection"
   ]
