@@ -21,6 +21,8 @@
         "mobile_banner_eEWPye"
       ],
       "settings": {
+        "desktop_banner_image": "shopify:\/\/shop_images\/BANNER-WEB.jpg",
+        "mobile_banner_image": "shopify:\/\/shop_images\/BANNER_MOBILE.jpg"
       }
     },
     "image_banner": {
