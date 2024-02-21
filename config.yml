@@ -1,0 +1,20 @@
+development:
+  store: 1b4858.myshopify.com
+  theme_id: '131025109085'
+  password: shptka_a6e5b0ad2e6a0623bb94c824c9ef0dcc
+  theme_name: St-Luxehaar-store/main
+  ignore_files: ['.sass-cache', '.git', 'node_modules', 'theme.zip', 'config.yml']
+
+staging:
+  store: 1b4858.myshopify.com
+  theme_id: '131025109085'
+  password: shptka_a6e5b0ad2e6a0623bb94c824c9ef0dcc
+  theme_name: St-Luxehaar-store/main
+  ignore_files: ['.sass-cache', '.git', 'node_modules', 'theme.zip', 'config.yml']
+
+production:
+  store: 1b4858.myshopify.com
+  theme_id: '131025109085'
+  password: shptka_a6e5b0ad2e6a0623bb94c824c9ef0dcc
+  theme_name: St-Luxehaar-store/main
+  ignore_files: ['.sass-cache', '.git', 'node_modules', 'theme.zip', 'config.yml']

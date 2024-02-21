@@ -1,0 +1,46 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_Yh8FFb": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>Menú<\/strong>",
+            "menu": "main-menu"
+          }
+        },
+        "link_list_jMMyFq": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>También te puede interesar<\/strong>",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_Yh8FFb",
+        "link_list_jMMyFq"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "newsletter_enable": true,
+        "newsletter_heading": "<strong>Suscríbete a nuestro newsletter<\/strong>",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
