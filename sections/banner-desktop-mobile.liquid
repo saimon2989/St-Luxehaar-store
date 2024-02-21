@@ -1,38 +1,41 @@
 {{ 'section-image-banner.css' | asset_url | stylesheet_tag }}
-{%- if section.settings.image != blank -%}
-    {% if section.blocks %}
-      {% for block in section.blocks %}
-        {% if block.type == 'desktop-banner' %}
-          <div class="desktop-banner">
-            {%- assign desktop_banner_image = block.settings.desktop_banner_image | image_url: '1920x940' -%}
-            <img
-              src="{{ desktop_banner_image }}"
-              alt="Desktop Banner"
-              width="1920"
-              height="940"
-            >
-          </div>
-        {% endif %}
+{%- if section.settings.desktop_banner_image != blank -%}
+    <div class="desktop-banner">
+      <img
+        src="{{ section.settings.desktop_banner_image | image_url: '1920x940' }}"
+        alt="Desktop Banner"
+        width="1920"
+        height="940"
+      >
+    </div>
+  {%- endif -%}
   
-        {% if block.type == 'mobile-banner' %}
-          <div class="mobile-banner">
-            {%- assign mobile_banner_image = block.settings.mobile_banner_image | image_url: '760x940' -%}
-            <img
-              src="{{ mobile_banner_image }}"
-              alt="Mobile Banner"
-              width="760"
-              height="940"
-            >
-          </div>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
+  {%- if section.settings.mobile_banner_image != blank -%}
+    <div class="mobile-banner">
+      <img
+        src="{{ section.settings.mobile_banner_image | image_url: '760x940' }}"
+        alt="Mobile Banner"
+        width="760"
+        height="940"
+      >
+    </div>
   {%- endif -%}
 
 {% schema %}
 {
-  "name": "Banner-desktop-mobile",
-  "settings": [],
+  "name": "Banner Desktop and Mobile",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "desktop_banner_image",
+      "label": "Desktop Banner Image"
+    },
+    {
+      "type": "image_picker",
+      "id": "mobile_banner_image",
+      "label": "Mobile Banner Image"
+    }
+  ],
   "blocks": [
     {
       "type": "desktop-banner",
@@ -59,7 +62,7 @@
   ],
   "presets": [
     {
-      "name": "Banner-desktop-mobile",
+      "name": "Banner Desktop and Mobile",
       "category": "Custom"
     }
   ]
