@@ -1,0 +1,65 @@
+{% schema %}
+{
+  "name": "Banner-with-desktop-mobile",
+  "settings": [],
+  "blocks": [
+    {
+      "type": "desktop-banner",
+      "name": "Desktop Banner",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "desktop_banner_image",
+          "label": "Desktop Banner Image"
+        }
+      ]
+    },
+    {
+      "type": "mobile-banner",
+      "name": "Mobile Banner",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "mobile_banner_image",
+          "label": "Mobile Banner Image"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Banner-with-desktop-mobile",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{%- if section.settings.image != blank -%}
+    {% if section.blocks %}
+      {% for block in section.blocks %}
+        {% if block.type == 'desktop-banner' %}
+          <div class="desktop-banner">
+            {%- assign desktop_banner_image = block.settings.desktop_banner_image | image_url: '300x' -%}
+            <img
+              src="{{ desktop_banner_image | asset_url }}"
+              alt="Desktop Banner"
+              width="{{ desktop_banner_image | split: '?' | first | remove: '//' | split: '/' | last | truncate: 40 }}"
+              height="{{ desktop_banner_image | split: '?' | first | split: '/' | last | truncate: 40, '' | replace: '_300x.', '_.' }}"
+            >
+          </div>
+        {% endif %}
+  
+        {% if block.type == 'mobile-banner' %}
+          <div class="mobile-banner">
+            {%- assign mobile_banner_image = block.settings.mobile_banner_image | image_url: '300x' -%}
+            <img
+              src="{{ mobile_banner_image | asset_url }}"
+              alt="Mobile Banner"
+              width="{{ mobile_banner_image | split: '?' | first | remove: '//' | split: '/' | last | truncate: 40 }}"
+              height="{{ mobile_banner_image | split: '?' | first | split: '/' | last | truncate: 40, '' | replace: '_300x.', '_.' }}"
+            >
+          </div>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {%- endif -%}
