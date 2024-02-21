@@ -1,12 +1,17 @@
 .desktop-banner {
-  /* Add styles for desktop banner */
   width: 100%;
+  height: 940px;
+  background-size: cover;
+  background-position: center;
+  background-image: url("{{ desktop_banner_image | img_url: '1920x940' }}");
 }
 
 .mobile-banner {
-  /* Add styles for mobile banner */
   width: 100%;
-  display: none; /* Hide mobile banner on desktop */
+  height: 940px;
+  background-size: cover;
+  background-position: center;
+  background-image: url("{{ mobile_banner_image | img_url: '760x940' }}");
 }
 
 @media (max-width: 767px) {
