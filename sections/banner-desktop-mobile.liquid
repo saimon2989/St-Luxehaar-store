@@ -1,8 +1,9 @@
+{{ 'section-image-banner.css' | asset_url | stylesheet_tag }}
 {%- for block in section.blocks -%}
     {%- case block.type -%}
       {%- when 'desktop-banner' -%}
         {%- if section.settings.desktop_banner_image != blank -%}
-          <div class="desktop-banner">
+          <div class="banner__media">
             <img
               src="{{ section.settings.desktop_banner_image | image_url: '1920x940' }}"
               alt="Desktop Banner"
