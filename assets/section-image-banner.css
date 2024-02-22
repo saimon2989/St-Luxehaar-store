@@ -1,3 +1,34 @@
+/* Banner-Desktop And Mobile styles */
+
+.desktop-banner {
+  width: 100%;
+  height: 940px;
+  background-size: cover;
+  background-position: center;
+  background-image: url("{{ section.settings.desktop_banner_image | image_url: '1920x940' }}");
+}
+
+.mobile-banner {
+  width: 100%;
+  height: 940px;
+  background-size: cover;
+  background-position: center;
+  background-image: url("{{ section.settings.mobile_banner_image | image_url: '760x940' }}");
+}
+
+@media (max-width: 767px) {
+  .desktop-banner {
+    display: none; /* Hide desktop banner on mobile */
+  }
+
+  .mobile-banner {
+    /* Show mobile banner on mobile */
+    display: block;
+  }
+}
+
+
+
 .desktop-banner {
   /* Add styles for desktop banner */
   width: 100%;
