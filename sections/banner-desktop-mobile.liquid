@@ -3,7 +3,7 @@
     {%- case block.type -%}
       {%- when 'desktop-banner' -%}
         {%- if section.settings.desktop_banner_image != blank -%}
-          <div class="desktop-banner banner__media">
+          <div class="desktop-banner">
             <img
               src="{{ section.settings.desktop_banner_image | image_url: '1920x940' }}"
               alt="Desktop Banner"
