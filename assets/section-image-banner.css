@@ -5,7 +5,7 @@
   height: 940px;
   background-size: cover;
   background-position: center;
-  background-image: url("{{ section.settings.desktop_banner_image | image_url: '1920x940' }}");
+  background-image: url("{{ section.settings.desktop_banner_image | img_url: '1920x940' }}");
 }
 
 .mobile-banner {
@@ -13,7 +13,7 @@
   height: 940px;
   background-size: cover;
   background-position: center;
-  background-image: url("{{ section.settings.mobile_banner_image | image_url: '760x940' }}");
+  background-image: url("{{ section.settings.mobile_banner_image | img_url: '760x940' }}");
 }
 
 @media (max-width: 767px) {
