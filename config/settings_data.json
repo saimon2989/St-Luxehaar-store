@@ -416,8 +416,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".gty-wacb-button {background-color: #af8028 !important;}",
-      ".cart-count-bubble{background-color: red !important;}"
+      ".gty-wacb-button {background-color: #af8028 !important;}"
     ]
   }
 }
