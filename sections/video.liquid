@@ -81,7 +81,7 @@
             muted
             loop
             playsinline
-            poster="{{ poster | image_url: '1200x' }}"
+            poster="{{ poster | img_url: '1200x' }}"
           >
             {%- if section.settings.video != null -%}
               <source src="{{ section.settings.video | media_url }}" type="video/mp4">
