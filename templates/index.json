@@ -4,7 +4,7 @@
       "type": "video",
       "settings": {
         "heading": "",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "enable_video_looping": true,
         "video": "shopify:\/\/files\/videos\/Secuencia 13_4.mp4",
         "video_url": "",
