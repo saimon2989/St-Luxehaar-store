@@ -1,0 +1,74 @@
+{%- for block in section.blocks -%}
+    {%- case block.type -%}
+      {%- when 'desktop-banner' -%}
+        {%- if section.settings.desktop_banner_image != blank -%}
+          <div class="desktop-banner">
+            <img
+              src="{{ section.settings.desktop_banner_image | image_url: '1920x940' }}"
+              alt="Desktop Banner"
+              width="1920"
+              height="940"
+            >
+          </div>
+        {%- endif -%}
+      {%- when 'mobile-banner' -%}
+        {%- if section.settings.mobile_banner_image != blank -%}
+          <div class="mobile-banner">
+            <img
+              src="{{ section.settings.mobile_banner_image | image_url: '760x940' }}"
+              alt="Mobile Banner"
+              width="760"
+              height="940"
+            >
+          </div>
+        {%- endif -%}
+    {%- endcase -%}
+  {%- endfor -%}
+
+{% schema %}
+{
+  "name": "Banner Desktop and Mobile",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "desktop_banner_image",
+      "label": "Desktop Banner Image"
+    },
+    {
+      "type": "image_picker",
+      "id": "mobile_banner_image",
+      "label": "Mobile Banner Image"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "desktop-banner",
+      "name": "Desktop Banner",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "desktop_banner_image",
+          "label": "Desktop Banner Image"
+        }
+      ]
+    },
+    {
+      "type": "mobile-banner",
+      "name": "Mobile Banner",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "mobile_banner_image",
+          "label": "Mobile Banner Image"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Banner Desktop and Mobile",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
