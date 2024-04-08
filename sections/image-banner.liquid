@@ -1,6 +1,6 @@
 {{ 'section-image-banner.css' | asset_url | stylesheet_tag }}
 
-{%- if section.settings.image_height == 'adapt' and section.settings.image != blank -%}
+{%- if section.settings.image_height == 'adapt' and section.settings.image != blank -%} 
   {%- style -%}
     @media screen and (max-width: 749px) {
       #Banner-{{ section.id }}::before,
@@ -118,6 +118,7 @@
       }}
     </div>
   {%- endif -%}
+  <a href="{{ section.settings.image_link }}">
   <div class="banner__content banner__content--{{ section.settings.desktop_content_position }} page-width{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
     <div class="banner__box content-container content-container--full-width-mobile color-{{ section.settings.color_scheme }} gradient">
       {%- for block in section.blocks -%}
@@ -167,6 +168,7 @@
       {%- endfor -%}
     </div>
   </div>
+  </a>
 </div>
 
 {% schema %}
