@@ -1,5 +1,21 @@
 {
   "sections": {
+    "video_hFFNAh": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/Secuencia 13_4.mp4",
+        "video_url": "",
+        "cover_image": "shopify:\/\/shop_images\/BANNER-WEB.jpg",
+        "description": "video_luxehaart",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -28,6 +44,7 @@
         "heading",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/BANNER-WEB.jpg",
         "image_overlay_opacity": 0,
@@ -72,6 +89,7 @@
     }
   },
   "order": [
+    "video_hFFNAh",
     "image_banner",
     "featured_collection"
   ]
