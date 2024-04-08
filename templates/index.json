@@ -1,19 +1,20 @@
 {
   "sections": {
-    "video_hFFNAh": {
-      "type": "video",
+    "image_banner": {
+      "type": "image-banner",
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/Secuencia 13_4.mp4",
-        "video_url": "",
-        "description": "video_luxehaart",
-        "video_link": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "image": "shopify:\/\/shop_images\/BANNER-WEB.jpg",
+        "image_link": "shopify:\/\/collections\/all",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "featured_collection": {
@@ -44,27 +45,26 @@
         "padding_bottom": 36
       }
     },
-    "image_banner": {
-      "type": "image-banner",
+    "video_hFFNAh": {
+      "type": "video",
       "settings": {
-        "image": "shopify:\/\/shop_images\/BANNER-WEB.jpg",
-        "image_link": "shopify:\/\/collections\/all",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/Secuencia 13_4.mp4",
+        "video_url": "",
+        "description": "video_luxehaart",
+        "video_link": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
   "order": [
-    "video_hFFNAh",
+    "image_banner",
     "featured_collection",
-    "image_banner"
+    "video_hFFNAh"
   ]
 }
