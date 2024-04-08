@@ -7,7 +7,11 @@
       "login_form_password_placeholder": "Parola dvs.",
       "login_form_error": "Parolă incorectă!",
       "login_form_submit": "Accesați",
+<<<<<<< HEAD
       "admin_link_html": "Sunteți proprietarul magazinului? <a href=\"/admin\" class=\"link underlined-link\">Conectați-vă aici</a>",
+=======
+      "admin_link_html": "Sunteți proprietarul magazinului? <a href=\"\/admin\" class=\"link underlined-link\">Conectați-vă aici<\/a>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "powered_by_shopify_html": "Acest magazin va fi pe platforma {{ shopify }}"
     },
     "social": {
@@ -126,7 +130,11 @@
         "minimum_of": "Minimum {{ quantity }}",
         "maximum_of": "Maximum {{ quantity }}",
         "multiples_of": "Incrementuri de {{ quantity }}",
+<<<<<<< HEAD
         "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> în coș",
+=======
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> în coș",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "note": "Vezi regulile legate de cantitate"
       },
       "price": {
@@ -139,8 +147,13 @@
         "view_store_info": "Vizualizați informațiile despre magazin",
         "check_other_stores": "Vizualizați disponibilitatea la alte magazine",
         "pick_up_available": "Ridicare disponibilă",
+<<<<<<< HEAD
         "pick_up_available_at_html": "Ridicare disponibilă la <span class=\"color-foreground\">{{ location_name }}</span>",
         "pick_up_unavailable_at_html": "Ridicare indisponibilă momentan la <span class=\"color-foreground\">{{ location_name }}</span>",
+=======
+        "pick_up_available_at_html": "Ridicare disponibilă la <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Ridicare indisponibilă momentan la <span class=\"color-foreground\">{{ location_name }}<\/span>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "unavailable": "Nu am putut încărca disponibilitatea pentru ridicare",
         "refresh": "Reîmprospătați"
       },
@@ -156,7 +169,11 @@
       },
       "view_full_details": "Vedeți detaliile complete",
       "include_taxes": "Taxe incluse.",
+<<<<<<< HEAD
       "shipping_policy_html": "<a href=\"{{ link }}\">Taxele de expediere</a> sunt calculate la finalizarea comenzii.",
+=======
+      "shipping_policy_html": "<a href=\"{{ link }}\">Taxele de expediere<\/a> sunt calculate la finalizarea comenzii.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "choose_options": "Alege opțiunile",
       "choose_product_options": "Alege opțiunile pentru {{ product_name }}",
       "value_unavailable": "{{ option_value }} – Indisponibil",
@@ -172,7 +189,11 @@
         "title": "Stabilire preț per volum",
         "note": "Stabilirea prețului per volum este disponibilă",
         "minimum": "Peste {{ quantity }}",
+<<<<<<< HEAD
         "price_at_each": "la {{ price }}/buc.",
+=======
+        "price_at_each": "la {{ price }}\/buc.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "price_range": "{{ minimum }} - {{ maximum }}"
       }
     },
@@ -288,9 +309,15 @@
       "empty": "Coșul dvs. este gol",
       "cart_error": "A apărut o eroare în timpul actualizării coșului. Încercați din nou.",
       "cart_quantity_error_html": "Cantitatea maximă pe care o poți adăuga în coș din acest articol: {{ quantity }}.",
+<<<<<<< HEAD
       "taxes_and_shipping_policy_at_checkout_html": "Taxele, reducerile și <a href=\"{{ link }}\">transportul</a> sunt calculate la finalizarea comenzii",
       "taxes_included_but_shipping_at_checkout": "Taxele sunt incluse, iar transportul și reducerile sunt calculate la finalizarea comenzii",
       "taxes_included_and_shipping_policy_html": "Taxele sunt incluse. <a href=\"{{ link }}\">Transportul</a> și reducerile sunt calculate la finalizarea comenzii.",
+=======
+      "taxes_and_shipping_policy_at_checkout_html": "Taxele, reducerile și <a href=\"{{ link }}\">transportul<\/a> sunt calculate la finalizarea comenzii",
+      "taxes_included_but_shipping_at_checkout": "Taxele sunt incluse, iar transportul și reducerile sunt calculate la finalizarea comenzii",
+      "taxes_included_and_shipping_policy_html": "Taxele sunt incluse. <a href=\"{{ link }}\">Transportul<\/a> și reducerile sunt calculate la finalizarea comenzii.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "taxes_and_shipping_at_checkout": "Taxele, reducerile și transportul sunt calculate la finalizarea comenzii",
       "update": "Actualizați",
       "headings": {
@@ -302,7 +329,11 @@
       },
       "login": {
         "title": "Ai un cont?",
+<<<<<<< HEAD
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Conectează-te</a> pentru a finaliza comanda mai rapid."
+=======
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Conectează-te<\/a> pentru a finaliza comanda mai rapid."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       },
       "estimated_total": "Total estimat",
       "new_estimated_total": "Noul total estimat"
@@ -325,7 +356,11 @@
     "collection_template": {
       "title": "Colecție",
       "empty": "Nu s-au găsit produse",
+<<<<<<< HEAD
       "use_fewer_filters_html": "Folosește mai puține filtre sau <a class=\"{{ class }}\" href=\"{{ link }}\">elimină-le pe toate</a>"
+=======
+      "use_fewer_filters_html": "Folosește mai puține filtre sau <a class=\"{{ class }}\" href=\"{{ link }}\">elimină-le pe toate<\/a>"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     },
     "video": {
       "load_video": "Încarcă clipul video: {{ description }}"
@@ -352,7 +387,11 @@
     "quick_order_list": {
       "product_total": "Subtotal produs",
       "view_cart": "Vezi coșul",
+<<<<<<< HEAD
       "each": "{{ money }}/buc.",
+=======
+      "each": "{{ money }}\/buc.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "product": "Produs",
       "variant": "Variantă",
       "variant_total": "Total variantă",
@@ -374,10 +413,17 @@
     }
   },
   "localization": {
+<<<<<<< HEAD
     "country_label": "Țară/Regiune",
     "language_label": "Limbă",
     "update_language": "Actualizați limba",
     "update_country": "Actualizați țara/regiunea"
+=======
+    "country_label": "Țară\/Regiune",
+    "language_label": "Limbă",
+    "update_language": "Actualizați limba",
+    "update_country": "Actualizați țara\/regiunea"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
   },
   "customer": {
     "account": {
@@ -408,7 +454,11 @@
       "address1": "Adresa 1",
       "address2": "Adresa 2",
       "city": "Localitate",
+<<<<<<< HEAD
       "country": "Țară/Regiune",
+=======
+      "country": "Țară\/Regiune",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "province": "Provincie",
       "zip": "Cod poștal",
       "phone": "Număr de telefon",
@@ -521,4 +571,8 @@
       "collapsed": "Formularul pentru destinatarul cardului cadou este restrâns"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

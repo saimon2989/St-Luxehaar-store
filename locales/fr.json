@@ -7,7 +7,11 @@
       "login_form_password_placeholder": "Votre mot de passe",
       "login_form_error": "Mot de passe incorrect !",
       "login_form_submit": "Saisir",
+<<<<<<< HEAD
       "admin_link_html": "La boutique vous appartient-elle ? <a href=\"/admin\" class=\"link underlined-link\">Se connecter ici</a>",
+=======
+      "admin_link_html": "La boutique vous appartient-elle ? <a href=\"\/admin\" class=\"link underlined-link\">Se connecter ici<\/a>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "powered_by_shopify_html": "Cette boutique sera propulsée par {{ shopify }}"
     },
     "social": {
@@ -119,7 +123,11 @@
         "minimum_of": "Minimum de {{ quantity }}",
         "maximum_of": "Maximum de {{ quantity }}",
         "multiples_of": "Incréments de {{ quantity }}",
+<<<<<<< HEAD
         "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> dans le panier",
+=======
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> dans le panier",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "note": "Voir les règles de quantité"
       },
       "price": {
@@ -139,8 +147,13 @@
         "view_store_info": "Afficher les informations de la boutique",
         "check_other_stores": "Vérifier la disponibilité dans d'autres boutiques",
         "pick_up_available": "Service de retrait disponible",
+<<<<<<< HEAD
         "pick_up_available_at_html": "Service de retrait disponible à <span class=\"color-foreground\">{{ location_name }}</span>",
         "pick_up_unavailable_at_html": "Service de retrait non disponible actuellement à <span class=\"color-foreground\">{{ location_name }}</span>",
+=======
+        "pick_up_available_at_html": "Service de retrait disponible à <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Service de retrait non disponible actuellement à <span class=\"color-foreground\">{{ location_name }}<\/span>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "unavailable": "Impossible de charger la disponibilité du service de retrait",
         "refresh": "Actualiser"
       },
@@ -156,7 +169,11 @@
       },
       "view_full_details": "Afficher tous les détails",
       "include_taxes": "Taxes incluses.",
+<<<<<<< HEAD
       "shipping_policy_html": "<a href=\"{{ link }}\">Frais d'expédition</a> calculés à l'étape de paiement.",
+=======
+      "shipping_policy_html": "<a href=\"{{ link }}\">Frais d'expédition<\/a> calculés à l'étape de paiement.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "choose_options": "Choisir des options",
       "choose_product_options": "Choisir des options pour {{ product_name }}",
       "value_unavailable": "{{ option_value }} – indisponible",
@@ -172,7 +189,11 @@
         "title": "Tarification basée sur le volume",
         "note": "La tarification basée sur le volume est disponible",
         "minimum": "{{ quantity }} ou plus",
+<<<<<<< HEAD
         "price_at_each": "à {{ price }}/pièce",
+=======
+        "price_at_each": "à {{ price }}\/pièce",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "price_range": "{{ minimum }} - {{ maximum }}"
       }
     },
@@ -288,9 +309,15 @@
       "empty": "Votre panier est vide",
       "cart_error": "Une erreur est survenue lors de l’actualisation de votre panier. Veuillez réessayer.",
       "cart_quantity_error_html": "Vous ne pouvez pas ajouter plus de {{ quantity }} de ce produit à votre panier.",
+<<<<<<< HEAD
       "taxes_and_shipping_policy_at_checkout_html": "Taxes, réductions et <a href=\"{{ link }}\">frais d’expédition</a> calculés à l’étape du paiement",
       "taxes_included_but_shipping_at_checkout": "Taxe incluse, frais d’expédition et réductions calculés à l’étape du paiement",
       "taxes_included_and_shipping_policy_html": "Taxe incluse. <a href=\"{{ link }}\">Frais d’expédition</a> et réductions calculés à l’étape du paiement.",
+=======
+      "taxes_and_shipping_policy_at_checkout_html": "Taxes, réductions et <a href=\"{{ link }}\">frais d’expédition<\/a> calculés à l’étape du paiement",
+      "taxes_included_but_shipping_at_checkout": "Taxe incluse, frais d’expédition et réductions calculés à l’étape du paiement",
+      "taxes_included_and_shipping_policy_html": "Taxe incluse. <a href=\"{{ link }}\">Frais d’expédition<\/a> et réductions calculés à l’étape du paiement.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "taxes_and_shipping_at_checkout": "Taxes, réductions et frais d’expédition calculés à l’étape du paiement",
       "headings": {
         "product": "Produit",
@@ -302,7 +329,11 @@
       "update": "Mettre à jour",
       "login": {
         "title": "Vous possédez un compte ?",
+<<<<<<< HEAD
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Connectez-vous</a> pour payer plus vite."
+=======
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Connectez-vous<\/a> pour payer plus vite."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       },
       "estimated_total": "Total estimé",
       "new_estimated_total": "Nouveau total estimé"
@@ -325,7 +356,11 @@
     "collection_template": {
       "title": "Collection",
       "empty": "Aucun produit trouvé",
+<<<<<<< HEAD
       "use_fewer_filters_html": "Utiliser moins de filtres ou <a class=\"{{ class }}\" href=\"{{ link }}\">tout supprimer</a>"
+=======
+      "use_fewer_filters_html": "Utiliser moins de filtres ou <a class=\"{{ class }}\" href=\"{{ link }}\">tout supprimer<\/a>"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     },
     "video": {
       "load_video": "Charger la vidéo : {{ description }}"
@@ -352,7 +387,11 @@
     "quick_order_list": {
       "product_total": "Sous-total des produits",
       "view_cart": "Voir le panier",
+<<<<<<< HEAD
       "each": "{{ money }}/pièce",
+=======
+      "each": "{{ money }}\/pièce",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "product": "Produit",
       "variant": "Variante",
       "variant_total": "Total des variantes",
@@ -374,10 +413,17 @@
     }
   },
   "localization": {
+<<<<<<< HEAD
     "country_label": "Pays/région",
     "language_label": "Langue",
     "update_language": "Mettre à jour la langue",
     "update_country": "Mettre à jour le pays/la région"
+=======
+    "country_label": "Pays\/région",
+    "language_label": "Langue",
+    "update_language": "Mettre à jour la langue",
+    "update_country": "Mettre à jour le pays\/la région"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
   },
   "customer": {
     "account": {
@@ -406,7 +452,11 @@
       "address1": "Adresse 1",
       "address2": "Adresse 2",
       "city": "Ville",
+<<<<<<< HEAD
       "country": "Pays/région",
+=======
+      "country": "Pays\/région",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "province": "Province",
       "zip": "Code postal",
       "phone": "Téléphone",
@@ -521,4 +571,8 @@
       "collapsed": "Formulaire de destinataire de carte-cadeau réduit"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

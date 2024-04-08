@@ -32,7 +32,11 @@
       "settings": {
         "type_header_font": {
           "label": "Lettertype",
+<<<<<<< HEAD
           "info": "Als je een ander lettertype selecteert, kan dit de snelheid van je winkel beïnvloeden. Meer informatie over systeemlettertypen.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+=======
+          "info": "Als je een ander lettertype selecteert, kan dit de snelheid van je winkel beïnvloeden. Meer informatie over systeemlettertypen.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header__1": {
           "content": "Kopteksten"
@@ -42,7 +46,11 @@
         },
         "type_body_font": {
           "label": "Lettertype",
+<<<<<<< HEAD
           "info": "Als je een ander lettertype selecteert, kan dit de snelheid van je winkel beïnvloeden. Meer informatie over systeemlettertypen.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+=======
+          "info": "Als je een ander lettertype selecteert, kan dit de snelheid van je winkel beïnvloeden. Meer informatie over systeemlettertypen.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "heading_scale": {
           "label": "Schaal lettertypegrootte"
@@ -57,6 +65,7 @@
       "settings": {
         "social_twitter_link": {
           "label": "Twitter",
+<<<<<<< HEAD
           "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
@@ -90,6 +99,41 @@
         "social_vimeo_link": {
           "label": "Vimeo",
           "info": "https://vimeo.com/shopify"
+=======
+          "info": "https:\/\/twitter.com\/shopify"
+        },
+        "social_facebook_link": {
+          "label": "Facebook",
+          "info": "https:\/\/facebook.com\/shopify"
+        },
+        "social_pinterest_link": {
+          "label": "Pinterest",
+          "info": "https:\/\/pinterest.com\/shopify"
+        },
+        "social_instagram_link": {
+          "label": "Instagram",
+          "info": "http:\/\/instagram.com\/shopify"
+        },
+        "social_tiktok_link": {
+          "label": "TikTok",
+          "info": "https:\/\/tiktok.com\/@shopify"
+        },
+        "social_tumblr_link": {
+          "label": "Tumblr",
+          "info": "https:\/\/shopify.tumblr.com"
+        },
+        "social_snapchat_link": {
+          "label": "Snapchat",
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
+        },
+        "social_youtube_link": {
+          "label": "YouTube",
+          "info": "https:\/\/www.youtube.com\/shopify"
+        },
+        "social_vimeo_link": {
+          "label": "Vimeo",
+          "info": "https:\/\/vimeo.com\/shopify"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header": {
           "content": "Socialmedia-accounts"
@@ -222,7 +266,11 @@
     },
     "variant_pills": {
       "name": "Variantopties",
+<<<<<<< HEAD
       "paragraph": "Variantopties zijn een manier om je productvarianten weer te geven. [Meer informatie](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+=======
+      "paragraph": "Variantopties zijn een manier om je productvarianten weer te geven. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     },
     "inputs": {
       "name": "Invoer"
@@ -480,7 +528,11 @@
         },
         "header__1": {
           "content": "Pictogrammen voor social media",
+<<<<<<< HEAD
           "info": "Als je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](/editor?context=theme&category=social%20media)."
+=======
+          "info": "Als je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](\/editor?context=theme&category=social%20media)."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header__2": {
           "content": "Aankondigingen"
@@ -489,6 +541,7 @@
           "label": "Pictogrammen op bureaublad weergeven"
         },
         "header__3": {
+<<<<<<< HEAD
           "content": "Kiezer voor land/regio",
           "info": "Ga naar de [marktinstellingen](/admin/settings/markets) om een land/regio toe te voegen."
         },
@@ -498,6 +551,17 @@
         "header__4": {
           "content": "Taalkiezer",
           "info": "Ga naar je [taalinstellingen](/admin/settings/languages) om een taal toe te voegen."
+=======
+          "content": "Kiezer voor land\/regio",
+          "info": "Ga naar de [marktinstellingen](\/admin\/settings\/markets) om een land\/regio toe te voegen."
+        },
+        "enable_country_selector": {
+          "label": "Kiezer voor land\/regio inschakelen"
+        },
+        "header__4": {
+          "content": "Taalkiezer",
+          "info": "Ga naar je [taalinstellingen](\/admin\/settings\/languages) om een taal toe te voegen."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_language_selector": {
           "label": "Taalkiezer inschakelen"
@@ -586,7 +650,11 @@
             },
             "description": {
               "label": "Alt-tekst video",
+<<<<<<< HEAD
               "info": "Geef een beschrijving van de video voor klanten die schermlezers gebruiken. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)"
+=======
+              "info": "Geef een beschrijving van de video voor klanten die schermlezers gebruiken. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video-block)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         }
@@ -602,7 +670,11 @@
           "label": "Opschrift"
         },
         "image_ratio": {
+<<<<<<< HEAD
           "label": "Breedte-/hoogteverhouding van afbeeldingen",
+=======
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -612,7 +684,11 @@
           "options__3": {
             "label": "Square"
           },
+<<<<<<< HEAD
           "info": "Voeg afbeeldingen toe door je collecties bij te werken. [Meer informatie](https://help.shopify.com/manual/products/collections)"
+=======
+          "info": "Voeg afbeeldingen toe door je collecties bij te werken. [Meer informatie](https:\/\/help.shopify.com\/manual\/products\/collections)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "swipe_on_mobile": {
           "label": "Swipen op mobiel inschakelen"
@@ -661,7 +737,11 @@
       "settings": {
         "custom_liquid": {
           "label": "Liquid-code",
+<<<<<<< HEAD
           "info": "Voeg app-fragmenten of andere code toe om geavanceerde aanpassingen aan te maken. [Meer informatie](https://shopify.dev/docs/api/liquid)"
+=======
+          "info": "Voeg app-fragmenten of andere code toe om geavanceerde aanpassingen aan te maken. [Meer informatie](https:\/\/shopify.dev\/docs\/api\/liquid)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         }
       },
       "presets": {
@@ -685,7 +765,11 @@
         },
         "show_image": {
           "label": "Uitgelichte afbeelding weergeven",
+<<<<<<< HEAD
           "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 3:2. [Meer informatie](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+=======
+          "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 3:2. [Meer informatie](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "show_date": {
           "label": "Datum weergeven"
@@ -720,7 +804,11 @@
           "content": "Productkaart"
         },
         "image_ratio": {
+<<<<<<< HEAD
           "label": "Breedte-/hoogteverhouding van afbeeldingen",
+=======
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -739,7 +827,11 @@
         },
         "show_rating": {
           "label": "Geef productbeoordeling weer",
+<<<<<<< HEAD
           "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-collection-show-product-rating)"
+=======
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#featured-collection-show-product-rating)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "columns_desktop": {
           "label": "Aantal kolommen op desktop"
@@ -834,14 +926,22 @@
           "name": "Merkinformatie",
           "settings": {
             "paragraph": {
+<<<<<<< HEAD
               "content": "In dit blok komt informatie over je merk. [Bewerk merkinformatie.](/editor?context=theme&category=brand%20information)"
+=======
+              "content": "In dit blok komt informatie over je merk. [Bewerk merkinformatie.](\/editor?context=theme&category=brand%20information)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             },
             "header__1": {
               "content": "Pictogrammen voor social media"
             },
             "show_social": {
               "label": "Pictogrammen social media weergeven",
+<<<<<<< HEAD
               "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](/editor?context=theme&category=social%20media)."
+=======
+              "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](\/editor?context=theme&category=social%20media)."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         }
@@ -855,16 +955,25 @@
         },
         "header__1": {
           "content": "Aanmelding voor het ontvangen van e-mail",
+<<<<<<< HEAD
           "info": "Abonnees die worden toegevoegd aan je 'geaccepteerde marketing'-klantenlijst. [Meer informatie](https://help.shopify.com/manual/customers/manage-customers)"
         },
         "header__2": {
           "content": "Pictogrammen voor social media",
           "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](/editor?context=theme&category=social%20media)."
+=======
+          "info": "Abonnees die worden toegevoegd aan je 'geaccepteerde marketing'-klantenlijst. [Meer informatie](https:\/\/help.shopify.com\/manual\/customers\/manage-customers)"
+        },
+        "header__2": {
+          "content": "Pictogrammen voor social media",
+          "info": "Als je je socialmedia-accounts wilt weergeven, koppel je ze in de [thema-instellingen](\/editor?context=theme&category=social%20media)."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "show_social": {
           "label": "Pictogrammen social media weergeven"
         },
         "header__3": {
+<<<<<<< HEAD
           "content": "Kiezer voor land/regio"
         },
         "header__4": {
@@ -872,12 +981,25 @@
         },
         "enable_country_selector": {
           "label": "Kiezer voor land/regio inschakelen"
+=======
+          "content": "Kiezer voor land\/regio"
+        },
+        "header__4": {
+          "info": "Ga naar de [marktinstellingen](\/admin\/settings\/markets) om een land\/regio toe te voegen."
+        },
+        "enable_country_selector": {
+          "label": "Kiezer voor land\/regio inschakelen"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header__5": {
           "content": "Taalkiezer"
         },
         "header__6": {
+<<<<<<< HEAD
           "info": "Ga naar je [language settings.](/admin/settings/languages) om een taal toe te voegen"
+=======
+          "info": "Ga naar je [language settings.](\/admin\/settings\/languages) om een taal toe te voegen"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_language_selector": {
           "label": "Taalkiezer inschakelen"
@@ -893,14 +1015,22 @@
         },
         "header__8": {
           "content": "Links naar beleid",
+<<<<<<< HEAD
           "info": "Ga naar je [beleidsinstellingen ](/admin/settings/legal) om winkelbeleid toe te voegen."
+=======
+          "info": "Ga naar je [beleidsinstellingen ](\/admin\/settings\/legal) om winkelbeleid toe te voegen."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "show_policy": {
           "label": "Links naar beleid tonen"
         },
         "header__9": {
           "content": "Volgen op Shop",
+<<<<<<< HEAD
           "info": "Klanten kunnen de winkel alleen vanuit de webshop volgen in de Shop-app als Shop Pay is ingeschakeld. [Meer informatie](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+=======
+          "info": "Klanten kunnen de winkel alleen vanuit de webshop volgen in de Shop-app als Shop Pay is ingeschakeld. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_follow_on_shop": {
           "label": "'Volgen op Shop' inschakelen"
@@ -960,7 +1090,11 @@
           }
         },
         "logo_help": {
+<<<<<<< HEAD
           "content": "Bewerk je logo in [thema-instellingen](/editor?context=theme&category=logo)."
+=======
+          "content": "Bewerk je logo in [thema-instellingen](\/editor?context=theme&category=logo)."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "sticky_header_type": {
           "label": "Sticky header",
@@ -978,6 +1112,7 @@
           }
         },
         "header__3": {
+<<<<<<< HEAD
           "content": "Kiezer voor land/regio"
         },
         "header__4": {
@@ -985,12 +1120,25 @@
         },
         "enable_country_selector": {
           "label": "Kiezer voor land/regio inschakelen"
+=======
+          "content": "Kiezer voor land\/regio"
+        },
+        "header__4": {
+          "info": "Ga naar de [marktinstellingen](\/admin\/settings\/markets) om een land\/regio toe te voegen."
+        },
+        "enable_country_selector": {
+          "label": "Kiezer voor land\/regio inschakelen"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header__5": {
           "content": "Taalkiezer"
         },
         "header__6": {
+<<<<<<< HEAD
           "info": "Ga naar je [taalinstellingen](/admin/settings/languages) om een taal toe te voegen."
+=======
+          "info": "Ga naar je [taalinstellingen](\/admin\/settings\/languages) om een taal toe te voegen."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_language_selector": {
           "label": "Taalkiezer inschakelen"
@@ -1035,7 +1183,11 @@
           "options__3": {
             "label": "Gemiddeld"
           },
+<<<<<<< HEAD
           "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 3:2. [Meer informatie](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+=======
+          "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 3:2. [Meer informatie](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
           "options__4": {
             "label": "Groot"
           }
@@ -1339,7 +1491,11 @@
               "options__3": {
                 "label": "Gemiddeld"
               },
+<<<<<<< HEAD
               "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 16:9. [Meer informatie](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+=======
+              "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 16:9. [Meer informatie](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
               "options__4": {
                 "label": "Groot"
               }
@@ -1364,10 +1520,17 @@
           "name": "Delen",
           "settings": {
             "featured_image_info": {
+<<<<<<< HEAD
               "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)."
             },
             "title_info": {
               "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+=======
+              "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
+            },
+            "title_info": {
+              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             },
             "text": {
               "label": "Tekst"
@@ -1386,7 +1549,11 @@
           "label": "Uitgelichte afbeelding weergeven"
         },
         "paragraph": {
+<<<<<<< HEAD
           "content": "Wijzig uittreksels door je blogposts bij te werken. [Meer informatie](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
+=======
+          "content": "Wijzig uittreksels door je blogposts bij te werken. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "show_date": {
           "label": "Datum weergeven"
@@ -1418,7 +1585,11 @@
           "options__4": {
             "label": "Groot"
           },
+<<<<<<< HEAD
           "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 3:2. [Meer informatie](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+=======
+          "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 3:2. [Meer informatie](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         }
       }
     },
@@ -1440,14 +1611,22 @@
       "name": "Collectiebanner",
       "settings": {
         "paragraph": {
+<<<<<<< HEAD
           "content": "Voeg een beschrijving of afbeelding toe door je collectie bij te werken. [Meer informatie](https://help.shopify.com/manual/products/collections/collection-layout)"
+=======
+          "content": "Voeg een beschrijving of afbeelding toe door je collectie bij te werken. [Meer informatie](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "show_collection_description": {
           "label": "Collectiebeschrijving weergeven"
         },
         "show_collection_image": {
           "label": "Collectieafbeelding weergeven",
+<<<<<<< HEAD
           "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 16:9. [Meer informatie](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+=======
+          "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 16:9. [Meer informatie](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         }
       }
     },
@@ -1458,7 +1637,11 @@
           "label": "Producten per pagina"
         },
         "image_ratio": {
+<<<<<<< HEAD
           "label": "Breedte-/hoogteverhouding van afbeeldingen",
+=======
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -1477,11 +1660,19 @@
         },
         "enable_tags": {
           "label": "Filteren inschakelen",
+<<<<<<< HEAD
           "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
         },
         "enable_filtering": {
           "label": "Filteren inschakelen",
           "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+=======
+          "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
+        },
+        "enable_filtering": {
+          "label": "Filteren inschakelen",
+          "info": "Pas filters aan met de Search & Discovery-app. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_sorting": {
           "label": "Sortering inschakelen"
@@ -1494,7 +1685,11 @@
         },
         "show_rating": {
           "label": "Geef productbeoordeling weer",
+<<<<<<< HEAD
           "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-grid-section-settings)"
+=======
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-grid-section-settings)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "columns_desktop": {
           "label": "Aantal kolommen op desktop"
@@ -1558,7 +1753,11 @@
           }
         },
         "image_ratio": {
+<<<<<<< HEAD
           "label": "Breedte-/hoogteverhouding van afbeeldingen",
+=======
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -1568,7 +1767,11 @@
           "options__3": {
             "label": "Square"
           },
+<<<<<<< HEAD
           "info": "Voeg afbeeldingen toe door je collecties bij te werken. [Meer informatie](https://help.shopify.com/manual/products/collections)"
+=======
+          "info": "Voeg afbeeldingen toe door je collecties bij te werken. [Meer informatie](https:\/\/help.shopify.com\/manual\/products\/collections)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "columns_desktop": {
           "label": "Aantal kolommen op desktopcomputers"
@@ -1655,11 +1858,19 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Dynamische checkoutknoppen weergeven",
+<<<<<<< HEAD
               "info": "Bij de betaalmethoden die bij je winkel beschikbaar zijn, zien klanten de optie die hun voorkeur heeft, zoals PayPal of Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Formulier voor gegevens van ontvanger weergeven voor cadeaubonnen",
               "info": "Hiermee kunnen kopers op een geplande datum een cadeaubon met een persoonlijk bericht sturen. [Meer informatie](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
+=======
+              "info": "Bij de betaalmethoden die bij je winkel beschikbaar zijn, zien klanten de optie die hun voorkeur heeft, zoals PayPal of Apple Pay. [Learn more](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+            },
+            "show_gift_card_recipient": {
+              "label": "Formulier voor gegevens van ontvanger weergeven voor cadeaubonnen",
+              "info": "Hiermee kunnen kopers op een geplande datum een cadeaubon met een persoonlijk bericht sturen. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         },
@@ -1673,10 +1884,17 @@
           "name": "Delen",
           "settings": {
             "featured_image_info": {
+<<<<<<< HEAD
               "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)."
             },
             "title_info": {
               "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+=======
+              "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
+            },
+            "title_info": {
+              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             },
             "text": {
               "label": "Tekst"
@@ -1848,7 +2066,11 @@
           "name": "Productbeoordeling",
           "settings": {
             "paragraph": {
+<<<<<<< HEAD
               "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+=======
+              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         },
@@ -1856,7 +2078,11 @@
           "name": "Aanvullende producten",
           "settings": {
             "paragraph": {
+<<<<<<< HEAD
               "content": "Als je aanvullende producten wilt selecteren, voeg je de Search en Zichtbaarheid-app toe. [Meer informatie](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+=======
+              "content": "Als je aanvullende producten wilt selecteren, voeg je de Search en Zichtbaarheid-app toe. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             },
             "heading": {
               "label": "Koptekst"
@@ -1885,7 +2111,11 @@
               "heading": "Productkaart"
             },
             "image_ratio": {
+<<<<<<< HEAD
               "label": "Breedte-/hoogteverhouding van afbeeldingen",
+=======
+              "label": "Breedte-\/hoogteverhouding van afbeeldingen",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
               "options": {
                 "option_1": "Staand",
                 "option_2": "Vierkant"
@@ -1989,7 +2219,11 @@
       "settings": {
         "header": {
           "content": "Media",
+<<<<<<< HEAD
           "info": "Meer informatie over [mediatypen](https://help.shopify.com/manual/products/product-media)"
+=======
+          "info": "Meer informatie over [mediatypen](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_video_looping": {
           "label": "Video-looping inschakelen"
@@ -2081,7 +2315,11 @@
       "name": "Zoekresultaten",
       "settings": {
         "image_ratio": {
+<<<<<<< HEAD
           "label": "Breedte-/hoogteverhouding van afbeeldingen",
+=======
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -2113,7 +2351,11 @@
         },
         "show_rating": {
           "label": "Geef productbeoordeling weer",
+<<<<<<< HEAD
           "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#search-results-section-settings)"
+=======
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#search-results-section-settings)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "columns_desktop": {
           "label": "Aantal kolommen op desktop"
@@ -2151,7 +2393,11 @@
           }
         },
         "image_ratio": {
+<<<<<<< HEAD
           "label": "Breedte-/hoogteverhouding van afbeeldingen",
+=======
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -2241,7 +2487,11 @@
           "label": "Volledige breedte voor sectie gebruiken"
         },
         "paragraph": {
+<<<<<<< HEAD
           "content": "Voor elk abonnement via e-mail wordt een klantaccount aangemaakt. [Meer informatie](https://help.shopify.com/manual/customers)"
+=======
+          "content": "Voor elk abonnement via e-mail wordt een klantaccount aangemaakt. [Meer informatie](https:\/\/help.shopify.com\/manual\/customers)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         }
       },
       "blocks": {
@@ -2414,7 +2664,11 @@
         },
         "description": {
           "label": "Alt-tekst video",
+<<<<<<< HEAD
           "info": "Geef een beschrijving van de video voor klanten die schermlezers gebruiken. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video)"
+=======
+          "info": "Geef een beschrijving van de video voor klanten die schermlezers gebruiken. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "image_padding": {
           "label": "Opvulling voor afbeeldingen toevoegen",
@@ -2497,7 +2751,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Dynamische checkout-knoppen weergeven",
+<<<<<<< HEAD
               "info": "Bij de betaalmethoden die bij je winkel beschikbaar zijn, zien klanten de optie die hun voorkeur heeft, zoals PayPal of Apple Pay. [Meer informatie](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+=======
+              "info": "Bij de betaalmethoden die bij je winkel beschikbaar zijn, zien klanten de optie die hun voorkeur heeft, zoals PayPal of Apple Pay. [Meer informatie](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         },
@@ -2508,10 +2766,17 @@
           "name": "Delen",
           "settings": {
             "featured_image_info": {
+<<<<<<< HEAD
               "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)"
             },
             "title_info": {
               "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+=======
+              "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
+            },
+            "title_info": {
+              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             },
             "text": {
               "label": "Tekstkleur"
@@ -2522,7 +2787,11 @@
           "name": "Productbeoordeling",
           "settings": {
             "paragraph": {
+<<<<<<< HEAD
               "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-product-rating)"
+=======
+              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#featured-product-rating)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         },
@@ -2553,7 +2822,11 @@
         },
         "header": {
           "content": "Media",
+<<<<<<< HEAD
           "info": "Meer informatie over [mediatypen](https://help.shopify.com/manual/products/product-media)"
+=======
+          "info": "Meer informatie over [mediatypen](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_video_looping": {
           "label": "Video-looping inschakelen"
@@ -2580,7 +2853,11 @@
       "name": "Banner voor aanmelding voor het ontvangen van e-mail",
       "settings": {
         "paragraph": {
+<<<<<<< HEAD
           "content": "Voor elk abonnement via e-mail wordt een klantaccount aangemaakt. [Meer informatie](https://help.shopify.com/manual/customers)"
+=======
+          "content": "Voor elk abonnement via e-mail wordt een klantaccount aangemaakt. [Meer informatie](https:\/\/help.shopify.com\/manual\/customers)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "image": {
           "label": "Achtergrondafbeelding"
@@ -2596,7 +2873,11 @@
         },
         "show_text_below": {
           "label": "Content op mobiel onder de afbeelding weergeven",
+<<<<<<< HEAD
           "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 16:9. [Meer informatie](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+=======
+          "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 16:9. [Meer informatie](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "image_height": {
           "label": "Hoogte van de banner",
@@ -2612,7 +2893,11 @@
           "options__4": {
             "label": "Groot"
           },
+<<<<<<< HEAD
           "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 16:9. [Meer informatie](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+=======
+          "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 16:9. [Meer informatie](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "desktop_content_position": {
           "options__4": {
@@ -2904,7 +3189,11 @@
           "label": "Afbeelding"
         },
         "image_ratio": {
+<<<<<<< HEAD
           "label": "Breedte-/hoogteverhouding van afbeeldingen",
+=======
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -3116,13 +3405,21 @@
           "label": "Aantal kolommen op desktopcomputers"
         },
         "paragraph__1": {
+<<<<<<< HEAD
           "content": "In de loop van de tijd worden veranderingen en verbeteringen doorgevoerd dankzij dynamische aanbevelingen, waarbij gebruik wordt gemaakt van informatie over bestellingen en producten. [Meer informatie](https://help.shopify.com/themes/development/recommended-products)"
+=======
+          "content": "In de loop van de tijd worden veranderingen en verbeteringen doorgevoerd dankzij dynamische aanbevelingen, waarbij gebruik wordt gemaakt van informatie over bestellingen en producten. [Meer informatie](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header__2": {
           "content": "Productkaart"
         },
         "image_ratio": {
+<<<<<<< HEAD
           "label": "Breedte-/hoogteverhouding van afbeeldingen",
+=======
+          "label": "Breedte-\/hoogteverhouding van afbeeldingen",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
           "options__1": {
             "label": "Aanpassen aan afbeelding"
           },
@@ -3141,7 +3438,11 @@
         },
         "show_rating": {
           "label": "Productbeoordeling weergeven",
+<<<<<<< HEAD
           "info": "Voeg een app voor productbeoordelingen toe om een beoordeling weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+=======
+          "info": "Voeg een app voor productbeoordelingen toe om een beoordeling weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header_mobile": {
           "content": "Opmaak op mobiele apparaten"
@@ -3325,4 +3626,8 @@
       }
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

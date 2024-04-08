@@ -13,6 +13,7 @@
       "blocks": {
         "subtotal": {
           "type": "subtotal",
+<<<<<<< HEAD
           "settings": {
           }
         },
@@ -20,6 +21,13 @@
           "type": "buttons",
           "settings": {
           }
+=======
+          "settings": {}
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         }
       },
       "block_order": [
@@ -37,4 +45,8 @@
     "cart-items",
     "cart-footer"
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

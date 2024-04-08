@@ -2,7 +2,11 @@
   "current": {
     "logo": "shopify:\/\/shop_images\/logo-st-luxehaar-dorado_1e696304-5647-4443-8f25-5791257d21e3.png",
     "logo_width": 90,
+<<<<<<< HEAD
     "favicon": "shopify:\/\/shop_images\/Favicon-luxehaar.png",
+=======
+    "favicon": "shopify:\/\/shop_images\/FAVICON.png",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     "type_header_font": "noto_serif_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
@@ -139,6 +143,23 @@
     "content_for_index": [
 
     ],
+<<<<<<< HEAD
+=======
+    "blocks": {
+      "13768625480086291342": {
+        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "16963237191767492405": {
+        "type": "shopify:\/\/apps\/whatsapp-button\/blocks\/app-embed-block\/96d80a63-e860-4262-a001-8b82ac4d00e6",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    },
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     "color_schemes": {
       "background-1": {
         "settings": {
@@ -399,5 +420,13 @@
         }
       }
     }
+<<<<<<< HEAD
+=======
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".gty-wacb-button {background-color: #af8028 !important;}"
+    ]
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
   }
 }

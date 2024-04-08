@@ -7,7 +7,11 @@
       "login_form_password_placeholder": "Parolanız",
       "login_form_error": "Yanlış parola!",
       "login_form_submit": "Gir",
+<<<<<<< HEAD
       "admin_link_html": "Mağaza sahibi misiniz? <a href=\"/admin\" class=\"link underlined-link\">Buradan oturum açın</a>",
+=======
+      "admin_link_html": "Mağaza sahibi misiniz? <a href=\"\/admin\" class=\"link underlined-link\">Buradan oturum açın<\/a>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "powered_by_shopify_html": "Bu mağaza {{ shopify }} tarafından desteklenir"
     },
     "social": {
@@ -51,7 +55,11 @@
       "close": "Paylaşımı kapat"
     },
     "slider": {
+<<<<<<< HEAD
       "of": "/",
+=======
+      "of": "\/",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "next_slide": "Sağa kaydır",
       "previous_slide": "Sola kaydır",
       "name": "Kaydırıcı"
@@ -65,7 +73,11 @@
   "accessibility": {
     "skip_to_text": "İçeriğe atla",
     "close": "Kapat",
+<<<<<<< HEAD
     "unit_price_separator": "/",
+=======
+    "unit_price_separator": "\/",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     "vendor": "Satıcı:",
     "error": "Hata",
     "refresh_page": "Bir seçim yapmanız sayfanın tamamının yenilenmesine neden olur.",
@@ -76,7 +88,11 @@
     "loading": "Yükleniyor...",
     "skip_to_product_info": "Ürün bilgisine atla",
     "total_reviews": "toplam değerlendirme",
+<<<<<<< HEAD
     "star_reviews_info": "{{ rating_value }}/{{ rating_max }} yıldız",
+=======
+    "star_reviews_info": "{{ rating_value }}\/{{ rating_max }} yıldız",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     "collapsible_content_title": "Daraltılabilir içerik",
     "complementary_products": "Tamamlayıcı ürünler"
   },
@@ -117,7 +133,11 @@
         "minimum_of": "Minimum: {{ quantity }}",
         "maximum_of": "Maksimum: {{ quantity }}",
         "multiples_of": "Artış değeri: {{ quantity }}",
+<<<<<<< HEAD
         "in_cart_html": "Sepette: <span class=\"quantity-cart\">{{ quantity }}</span>",
+=======
+        "in_cart_html": "Sepette: <span class=\"quantity-cart\">{{ quantity }}<\/span>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "note": "Adet kurallarını görüntüle"
       },
       "price": {
@@ -137,8 +157,13 @@
         "view_store_info": "Mağaza bilgilerini görüntüleyin",
         "check_other_stores": "Diğer mağazalardaki stok durumunu kontrol edin",
         "pick_up_available": "Teslim alım kullanılabilir",
+<<<<<<< HEAD
         "pick_up_available_at_html": "Teslim alım <span class=\"color-foreground\">{{ location_name }}</span> konumunda kullanılabilir",
         "pick_up_unavailable_at_html": "Teslim alım <span class=\"color-foreground\">{{ location_name }}</span> konumunda şu anda kullanılamıyor",
+=======
+        "pick_up_available_at_html": "Teslim alım <span class=\"color-foreground\">{{ location_name }}<\/span> konumunda kullanılabilir",
+        "pick_up_unavailable_at_html": "Teslim alım <span class=\"color-foreground\">{{ location_name }}<\/span> konumunda şu anda kullanılamıyor",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "unavailable": "Teslim alım stok durumu yüklenemedi",
         "refresh": "Yenile"
       },
@@ -154,7 +179,11 @@
       },
       "view_full_details": "Tüm ayrıntıları görüntüle",
       "include_taxes": "Vergi dahildir.",
+<<<<<<< HEAD
       "shipping_policy_html": "<a href=\"{{ link }}\">Kargo</a>, ödeme sayfasında hesaplanır.",
+=======
+      "shipping_policy_html": "<a href=\"{{ link }}\">Kargo<\/a>, ödeme sayfasında hesaplanır.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "choose_options": "Seçenekleri belirle",
       "choose_product_options": "{{ product_name }} için seçenekleri belirle",
       "value_unavailable": "{{ option_value }} - Kullanılamıyor",
@@ -170,7 +199,11 @@
         "title": "Toplu Alım Bazlı Fiyatlandırma",
         "note": "Toplu alım bazlı fiyatlandırma kullanılabilir",
         "minimum": "{{ quantity }}+",
+<<<<<<< HEAD
         "price_at_each": "{{ price }}/adet",
+=======
+        "price_at_each": "{{ price }}\/adet",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "price_range": "{{ minimum }} - {{ maximum }}"
       },
       "product_variants": "Ürün varyasyonları"
@@ -192,8 +225,13 @@
       },
       "max_price": "En yüksek fiyat: {{ price }}",
       "product_count": {
+<<<<<<< HEAD
         "one": "{{ count }}/{{ product_count }} ürün",
         "other": "{{ count }}/{{ product_count }} ürün"
+=======
+        "one": "{{ count }}\/{{ product_count }} ürün",
+        "other": "{{ count }}\/{{ product_count }} ürün"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       },
       "product_count_simple": {
         "one": "{{ count }} ürün",
@@ -278,9 +316,15 @@
       "empty": "Sepetiniz boş",
       "cart_error": "Sepetiniz güncellenirken bir hata oluştu. Lütfen tekrar deneyin.",
       "cart_quantity_error_html": "Sepetinize bu üründen yalnızca {{ quantity }} adet ekleyebilirsiniz.",
+<<<<<<< HEAD
       "taxes_and_shipping_policy_at_checkout_html": "Vergiler, indirimler ve <a href=\"{{ link }}\">kargo</a>, ödeme sayfasında hesaplanır",
       "taxes_included_but_shipping_at_checkout": "Vergi dahildir ve kargo ile indirimler, ödeme sayfasında hesaplanır",
       "taxes_included_and_shipping_policy_html": "Vergi dahildir. <a href=\"{{ link }}\">Kargo</a> ve indirimler, ödeme sayfasında hesaplanır.",
+=======
+      "taxes_and_shipping_policy_at_checkout_html": "Vergiler, indirimler ve <a href=\"{{ link }}\">kargo<\/a>, ödeme sayfasında hesaplanır",
+      "taxes_included_but_shipping_at_checkout": "Vergi dahildir ve kargo ile indirimler, ödeme sayfasında hesaplanır",
+      "taxes_included_and_shipping_policy_html": "Vergi dahildir. <a href=\"{{ link }}\">Kargo<\/a> ve indirimler, ödeme sayfasında hesaplanır.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "taxes_and_shipping_at_checkout": "Vergiler, indirimler ve kargo, ödeme sayfasında hesaplanır",
       "headings": {
         "product": "Ürün",
@@ -292,7 +336,11 @@
       "update": "Güncelle",
       "login": {
         "title": "Hesabınız var mı?",
+<<<<<<< HEAD
         "paragraph_html": "Daha hızlı ödeme yapmak için <a href=\"{{ link }}\" class=\"link underlined-link\">oturum açın</a>."
+=======
+        "paragraph_html": "Daha hızlı ödeme yapmak için <a href=\"{{ link }}\" class=\"link underlined-link\">oturum açın<\/a>."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       },
       "estimated_total": "Tahmini toplam",
       "new_estimated_total": "Yeni tahmini toplam"
@@ -315,7 +363,11 @@
     "collection_template": {
       "title": "Koleksiyon",
       "empty": "Ürün bulunamadı",
+<<<<<<< HEAD
       "use_fewer_filters_html": "Daha az filtre kullan veya <a class=\"{{ class }}\" href=\"{{ link }}\">tümünü kaldır</a>"
+=======
+      "use_fewer_filters_html": "Daha az filtre kullan veya <a class=\"{{ class }}\" href=\"{{ link }}\">tümünü kaldır<\/a>"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     },
     "video": {
       "load_video": "Videoyu yükle: {{ description }}"
@@ -342,7 +394,11 @@
     "quick_order_list": {
       "product_total": "Ürün alt toplamı",
       "view_cart": "Sepeti görüntüle",
+<<<<<<< HEAD
       "each": "{{ money }}/adet",
+=======
+      "each": "{{ money }}\/adet",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "product": "Ürün",
       "variant": "Varyasyon",
       "variant_total": "Varyasyon toplamı",
@@ -362,10 +418,17 @@
     }
   },
   "localization": {
+<<<<<<< HEAD
     "country_label": "Ülke/bölge",
     "language_label": "Dil",
     "update_language": "Dili güncelle",
     "update_country": "Ülke/bölge bilgisini güncelle"
+=======
+    "country_label": "Ülke\/bölge",
+    "language_label": "Dil",
+    "update_language": "Dili güncelle",
+    "update_country": "Ülke\/bölge bilgisini güncelle"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
   },
   "customer": {
     "account": {
@@ -394,7 +457,11 @@
       "address1": "Adres 1",
       "address2": "Adres 2",
       "city": "Şehir",
+<<<<<<< HEAD
       "country": "Ülke/bölge",
+=======
+      "country": "Ülke\/bölge",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "province": "İl",
       "zip": "Posta kodu",
       "phone": "Telefon",
@@ -509,4 +576,8 @@
       "collapsed": "Hediye kartı alıcısı formu daraltıldı"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

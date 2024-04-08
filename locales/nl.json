@@ -7,7 +7,11 @@
       "login_form_password_placeholder": "Je wachtwoord",
       "login_form_error": "Wachtwoord onjuist!",
       "login_form_submit": "Invoeren",
+<<<<<<< HEAD
       "admin_link_html": "Ben je de winkeleigenaar? <a href=\"/admin\" class=\"link underlined-link\">Log hier in</a>",
+=======
+      "admin_link_html": "Ben je de winkeleigenaar? <a href=\"\/admin\" class=\"link underlined-link\">Log hier in<\/a>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "powered_by_shopify_html": "Deze winkel wordt door {{ shopify }} aangedreven"
     },
     "social": {
@@ -117,7 +121,11 @@
         "minimum_of": "Minimum van {{ quantity }}",
         "maximum_of": "Maximum van {{ quantity }}",
         "multiples_of": "Stappen van {{ quantity }}",
+<<<<<<< HEAD
         "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> in winkelwagen",
+=======
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> in winkelwagen",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "note": "Hoeveelheidsregels bekijken"
       },
       "price": {
@@ -137,8 +145,13 @@
         "view_store_info": "Winkelgegevens bekijken",
         "check_other_stores": "Controleer de beschikbaarheid bij andere winkels",
         "pick_up_available": "Afhaling is beschikbaar",
+<<<<<<< HEAD
         "pick_up_available_at_html": "Afhaling is beschikbaar bij <span class=\"color-foreground\">{{ location_name }}</span>",
         "pick_up_unavailable_at_html": "Afhaling is momenteel niet beschikbaar bij <span class=\"color-foreground\">{{ location_name }}</span>",
+=======
+        "pick_up_available_at_html": "Afhaling is beschikbaar bij <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Afhaling is momenteel niet beschikbaar bij <span class=\"color-foreground\">{{ location_name }}<\/span>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "unavailable": "Kan beschikbaarheid voor afhalen niet laden",
         "refresh": "Vernieuwen"
       },
@@ -154,7 +167,11 @@
       },
       "view_full_details": "Alle details bekijken",
       "include_taxes": "Inclusief btw.",
+<<<<<<< HEAD
       "shipping_policy_html": "<a href=\"{{ link }}\">Verzendkosten</a> worden berekend bij de checkout.",
+=======
+      "shipping_policy_html": "<a href=\"{{ link }}\">Verzendkosten<\/a> worden berekend bij de checkout.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "choose_options": "Opties kiezen",
       "choose_product_options": "Opties kiezen voor {{ product_name }}",
       "value_unavailable": "{{ option_value }} - Niet beschikbaar",
@@ -170,7 +187,11 @@
         "title": "Volumeprijsstelling",
         "note": "Volumeprijsstelling beschikbaar",
         "minimum": "Meer dan {{ quantity }}",
+<<<<<<< HEAD
         "price_at_each": "{{ price }}/st.",
+=======
+        "price_at_each": "{{ price }}\/st.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "price_range": "{{ minimum }} - {{ maximum }}"
       },
       "product_variants": "Productvarianten"
@@ -278,9 +299,15 @@
       "empty": "Je winkelwagen is leeg",
       "cart_error": "Er is een fout opgetreden bij het bijwerken van je winkelwagen. Probeer het opnieuw.",
       "cart_quantity_error_html": "Je kunt maar {{ quantity }} van dit artikel toevoegen aan je winkelwagen.",
+<<<<<<< HEAD
       "taxes_and_shipping_policy_at_checkout_html": "Belastingen, kortingen en <a href=\"{{ link }}\">verzending</a> worden bij de checkout berekend",
       "taxes_included_but_shipping_at_checkout": "Inclusief belasting; verzendkosten en kortingen worden bij de checkout berekend",
       "taxes_included_and_shipping_policy_html": "Inclusief belasting. <a href=\"{{ link }}\">Verzending</a> en kortingen worden bij de checkout berekend.",
+=======
+      "taxes_and_shipping_policy_at_checkout_html": "Belastingen, kortingen en <a href=\"{{ link }}\">verzending<\/a> worden bij de checkout berekend",
+      "taxes_included_but_shipping_at_checkout": "Inclusief belasting; verzendkosten en kortingen worden bij de checkout berekend",
+      "taxes_included_and_shipping_policy_html": "Inclusief belasting. <a href=\"{{ link }}\">Verzending<\/a> en kortingen worden bij de checkout berekend.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "taxes_and_shipping_at_checkout": "Belastingen, kortingen en verzending worden bij de checkout berekend",
       "headings": {
         "product": "Product",
@@ -292,7 +319,11 @@
       "update": "Bijwerken",
       "login": {
         "title": "Heb je een account?",
+<<<<<<< HEAD
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Log in</a> om sneller af te rekenen."
+=======
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Log in<\/a> om sneller af te rekenen."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       },
       "estimated_total": "Geschat totaal",
       "new_estimated_total": "Nieuw geschat totaal"
@@ -315,7 +346,11 @@
     "collection_template": {
       "title": "Collectie",
       "empty": "Geen producten gevonden",
+<<<<<<< HEAD
       "use_fewer_filters_html": "Minder filters gebruiken of <a class=\"{{ class }}\" href=\"{{ link }}\">alles verwijderen</a>"
+=======
+      "use_fewer_filters_html": "Minder filters gebruiken of <a class=\"{{ class }}\" href=\"{{ link }}\">alles verwijderen<\/a>"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     },
     "video": {
       "load_video": "Video laden: {{ description }}"
@@ -342,7 +377,11 @@
     "quick_order_list": {
       "product_total": "Productsubtotaal",
       "view_cart": "Winkelwagen bekijken",
+<<<<<<< HEAD
       "each": "{{ money }}/st",
+=======
+      "each": "{{ money }}\/st",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "product": "Product",
       "variant": "Variant",
       "variant_total": "Totaal variant",
@@ -362,10 +401,17 @@
     }
   },
   "localization": {
+<<<<<<< HEAD
     "country_label": "Land/regio",
     "language_label": "Taal",
     "update_language": "Taal bijwerken",
     "update_country": "Land/regio bijwerken"
+=======
+    "country_label": "Land\/regio",
+    "language_label": "Taal",
+    "update_language": "Taal bijwerken",
+    "update_country": "Land\/regio bijwerken"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
   },
   "customer": {
     "account": {
@@ -394,7 +440,11 @@
       "address1": "Adres 1",
       "address2": "Adres 2",
       "city": "Plaats",
+<<<<<<< HEAD
       "country": "Land/regio",
+=======
+      "country": "Land\/regio",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "province": "Provincie",
       "zip": "Postcode",
       "phone": "Telefoonnummer",
@@ -509,4 +559,8 @@
       "collapsed": "Formulier voor ontvanger cadeaubon ingeklapt"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

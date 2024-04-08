@@ -7,7 +7,11 @@
       "login_form_password_placeholder": "Вашата парола",
       "login_form_error": "Неправилна парола.",
       "login_form_submit": "Въведете",
+<<<<<<< HEAD
       "admin_link_html": "Вие ли сте собственикът на магазина? <a href=\"/admin\" class=\"link underlined-link\">Влезте тук</a>",
+=======
+      "admin_link_html": "Вие ли сте собственикът на магазина? <a href=\"\/admin\" class=\"link underlined-link\">Влезте тук<\/a>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "powered_by_shopify_html": "Този магазин ще се поддържа от {{ shopify }}"
     },
     "social": {
@@ -117,7 +121,11 @@
         "minimum_of": "Минимум: {{ quantity }}",
         "maximum_of": "Максимум: {{ quantity }}",
         "multiples_of": "Стъпки от {{ quantity }}",
+<<<<<<< HEAD
         "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> в количката",
+=======
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> в количката",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "note": "Преглед на правилата за количества"
       },
       "price": {
@@ -137,8 +145,13 @@
         "view_store_info": "Вижте информация за магазина",
         "check_other_stores": "Проверка за наличност в други магазини",
         "pick_up_available": "Възможност за взимане",
+<<<<<<< HEAD
         "pick_up_available_at_html": "Възможност за взимане от <span class=\"color-foreground\">{{ location_name }}</span>",
         "pick_up_unavailable_at_html": "В момента няма възможност за взимане от <span class=\"color-foreground\">{{ location_name }}</span>",
+=======
+        "pick_up_available_at_html": "Възможност за взимане от <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "В момента няма възможност за взимане от <span class=\"color-foreground\">{{ location_name }}<\/span>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "unavailable": "Не може да се зареди възможността за взимане",
         "refresh": "Обнови"
       },
@@ -154,7 +167,11 @@
       },
       "view_full_details": "Покажи пълните подробности",
       "include_taxes": "С включени данъци.",
+<<<<<<< HEAD
       "shipping_policy_html": "<a href=\"{{ link }}\">Доставката</a> се изчислява при плащане.",
+=======
+      "shipping_policy_html": "<a href=\"{{ link }}\">Доставката<\/a> се изчислява при плащане.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "choose_options": "Изберете опции",
       "choose_product_options": "Изберете опции за {{ product_name }}",
       "value_unavailable": "{{ option_value }} – неналично",
@@ -170,7 +187,11 @@
         "title": "Цени на едро",
         "note": "Има възможност за цени на едро",
         "minimum": "{{ quantity }}+",
+<<<<<<< HEAD
         "price_at_each": "при {{ price }}/бр.",
+=======
+        "price_at_each": "при {{ price }}\/бр.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "price_range": "{{ minimum }} – {{ maximum }}"
       },
       "product_variants": "Варианти на продукта"
@@ -277,9 +298,15 @@
       "empty": "Количката ви е празна.",
       "cart_error": "При актуализирането на количката ви възникна грешка. Опитайте отново.",
       "cart_quantity_error_html": "Можете да добавите само {{ quantity }} броя от този артикул в количката си.",
+<<<<<<< HEAD
       "taxes_and_shipping_policy_at_checkout_html": "Данъците, отстъпките и <a href=\"{{ link }}\">доставката</a> се изчисляват при плащане",
       "taxes_included_but_shipping_at_checkout": "Данъците са включени, а доставката и отстъпките се изчисляват при плащане",
       "taxes_included_and_shipping_policy_html": "С включени данъци. <a href=\"{{ link }}\">Доставката</a> и отстъпките се изчисляват при плащане.",
+=======
+      "taxes_and_shipping_policy_at_checkout_html": "Данъците, отстъпките и <a href=\"{{ link }}\">доставката<\/a> се изчисляват при плащане",
+      "taxes_included_but_shipping_at_checkout": "Данъците са включени, а доставката и отстъпките се изчисляват при плащане",
+      "taxes_included_and_shipping_policy_html": "С включени данъци. <a href=\"{{ link }}\">Доставката<\/a> и отстъпките се изчисляват при плащане.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "taxes_and_shipping_at_checkout": "Данъците, отстъпките и доставката се изчисляват при плащане",
       "headings": {
         "product": "Продукт",
@@ -292,7 +319,11 @@
       "note": "Специални инструкции за поръчката",
       "login": {
         "title": "Имате профил?",
+<<<<<<< HEAD
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Влезте</a> за по-бързо преминаване към плащане."
+=======
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Влезте<\/a> за по-бързо преминаване към плащане."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       },
       "estimated_total": "Очаквана обща сума",
       "new_estimated_total": "Нова очаквана обща сума"
@@ -315,7 +346,11 @@
     "collection_template": {
       "title": "Колекция",
       "empty": "Не са открити продукти",
+<<<<<<< HEAD
       "use_fewer_filters_html": "Използвайте по-малко филтри или <a class=\"{{ class }}\" href=\"{{ link }}\">премахнете всички</a>"
+=======
+      "use_fewer_filters_html": "Използвайте по-малко филтри или <a class=\"{{ class }}\" href=\"{{ link }}\">премахнете всички<\/a>"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     },
     "video": {
       "load_video": "Зареждане на видео: {{ description }}"
@@ -342,7 +377,11 @@
     "quick_order_list": {
       "product_total": "Междинна сума за продукти",
       "view_cart": "Покажи количката",
+<<<<<<< HEAD
       "each": "{{ money }}/бр.",
+=======
+      "each": "{{ money }}\/бр.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "product": "Продукт",
       "variant": "Вариант",
       "variant_total": "Обща сума за варианта",
@@ -362,10 +401,17 @@
     }
   },
   "localization": {
+<<<<<<< HEAD
     "country_label": "Държава/регион",
     "language_label": "Език",
     "update_language": "Актуализиране на езика",
     "update_country": "Актуализиране на държава/регион"
+=======
+    "country_label": "Държава\/регион",
+    "language_label": "Език",
+    "update_language": "Актуализиране на езика",
+    "update_country": "Актуализиране на държава\/регион"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
   },
   "customer": {
     "account_fallback": "Профил",
@@ -384,7 +430,11 @@
       "address1": "Адрес 1",
       "address2": "Адрес 2",
       "city": "Град",
+<<<<<<< HEAD
       "country": "Държава/регион",
+=======
+      "country": "Държава\/регион",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "province": "Провинция",
       "phone": "Телефон",
       "set_default": "Задаване като адрес по подразбиране",
@@ -509,4 +559,8 @@
       "collapsed": "Формулярът за получател на ваучер за подарък е свит"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

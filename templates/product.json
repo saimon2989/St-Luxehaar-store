@@ -12,6 +12,7 @@
         },
         "title": {
           "type": "title",
+<<<<<<< HEAD
           "settings": {
           }
         },
@@ -19,6 +20,13 @@
           "type": "price",
           "settings": {
           }
+=======
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -28,8 +36,12 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+<<<<<<< HEAD
           "settings": {
           }
+=======
+          "settings": {}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -40,8 +52,12 @@
         },
         "description": {
           "type": "description",
+<<<<<<< HEAD
           "settings": {
           }
+=======
+          "settings": {}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "share": {
           "type": "share",
@@ -99,4 +115,8 @@
     "main",
     "related-products"
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

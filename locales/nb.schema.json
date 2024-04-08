@@ -32,7 +32,11 @@
       "settings": {
         "type_header_font": {
           "label": "Skrifttype",
+<<<<<<< HEAD
           "info": "Dersom du velger en annen skrifttype kan det påvirke hastigheten i butikken. [Finn ut mer om systemskrifter.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+=======
+          "info": "Dersom du velger en annen skrifttype kan det påvirke hastigheten i butikken. [Finn ut mer om systemskrifter.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header__1": {
           "content": "Overskrifter"
@@ -42,7 +46,11 @@
         },
         "type_body_font": {
           "label": "Skrifttype",
+<<<<<<< HEAD
           "info": "Dersom du velger en annen skrifttype kan det påvirke hastigheten i butikken. [Finn ut mer om systemskrifter.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+=======
+          "info": "Dersom du velger en annen skrifttype kan det påvirke hastigheten i butikken. [Finn ut mer om systemskrifter.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "heading_scale": {
           "label": "Skriftstørrelsens skala"
@@ -57,6 +65,7 @@
       "settings": {
         "social_twitter_link": {
           "label": "Twitter",
+<<<<<<< HEAD
           "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
@@ -90,6 +99,41 @@
         "social_vimeo_link": {
           "label": "Vimeo",
           "info": "https://vimeo.com/shopify"
+=======
+          "info": "https:\/\/twitter.com\/shopify"
+        },
+        "social_facebook_link": {
+          "label": "Facebook",
+          "info": "https:\/\/facebook.com\/shopify"
+        },
+        "social_pinterest_link": {
+          "label": "Pinterest",
+          "info": "https:\/\/pinterest.com\/shopify"
+        },
+        "social_instagram_link": {
+          "label": "Instagram",
+          "info": "http:\/\/instagram.com\/shopify"
+        },
+        "social_tiktok_link": {
+          "label": "TikTok",
+          "info": "https:\/\/tiktok.com\/@shopify"
+        },
+        "social_tumblr_link": {
+          "label": "Tumblr",
+          "info": "https:\/\/shopify.tumblr.com"
+        },
+        "social_snapchat_link": {
+          "label": "Snapchat",
+          "info": "https:\/\/snapchat.com\/add\/shopify"
+        },
+        "social_youtube_link": {
+          "label": "YouTube",
+          "info": "https:\/\/www.youtube.com\/shopify"
+        },
+        "social_vimeo_link": {
+          "label": "Vimeo",
+          "info": "https:\/\/vimeo.com\/shopify"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header": {
           "content": "Sosiale kontoer"
@@ -222,7 +266,11 @@
     },
     "variant_pills": {
       "name": "Variantknapper",
+<<<<<<< HEAD
       "paragraph": "Variantknapper er én måte å presentere produktvarianter på. [Finn ut mer](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+=======
+      "paragraph": "Variantknapper er én måte å presentere produktvarianter på. [Finn ut mer](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     },
     "inputs": {
       "name": "Inputs"
@@ -480,7 +528,11 @@
         },
         "header__1": {
           "content": "Ikoner for sosiale medier",
+<<<<<<< HEAD
           "info": "Koble til kontoer i sosiale medier i [temainnstillingene](/editor?context=theme&category=social%20media) for å vise dem."
+=======
+          "info": "Koble til kontoer i sosiale medier i [temainnstillingene](\/editor?context=theme&category=social%20media) for å vise dem."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header__2": {
           "content": "Kunngjøringer"
@@ -489,6 +541,7 @@
           "label": "Vis ikoner på skrivebordet"
         },
         "header__3": {
+<<<<<<< HEAD
           "content": "Land-/områdevelger",
           "info": "Gå til [markedsinnstillinger](/admin/settings/markets) for å legge til land/område."
         },
@@ -498,6 +551,17 @@
         "header__4": {
           "content": "Språkvelger",
           "info": "Gå til [språkinnstillingene](/admin/settings/languages) for å legge til et språk."
+=======
+          "content": "Land-\/områdevelger",
+          "info": "Gå til [markedsinnstillinger](\/admin\/settings\/markets) for å legge til land\/område."
+        },
+        "enable_country_selector": {
+          "label": "Aktiver land-\/områdevelger"
+        },
+        "header__4": {
+          "content": "Språkvelger",
+          "info": "Gå til [språkinnstillingene](\/admin\/settings\/languages) for å legge til et språk."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_language_selector": {
           "label": "Aktiver språkvelger"
@@ -586,7 +650,11 @@
             },
             "description": {
               "label": "Alt. tekst for video",
+<<<<<<< HEAD
               "info": "Beskriv videoen for kunder som bruker skjermlesere. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)"
+=======
+              "info": "Beskriv videoen for kunder som bruker skjermlesere. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video-block)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         }
@@ -612,7 +680,11 @@
           "options__3": {
             "label": "Firkant"
           },
+<<<<<<< HEAD
           "info": "Legg til bilder ved å redigere samlingene dine. [Finn ut mer](https://help.shopify.com/manual/products/collections)"
+=======
+          "info": "Legg til bilder ved å redigere samlingene dine. [Finn ut mer](https:\/\/help.shopify.com\/manual\/products\/collections)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "swipe_on_mobile": {
           "label": "Aktiver sveip på mobil"
@@ -661,7 +733,11 @@
       "settings": {
         "custom_liquid": {
           "label": "Liquid-kode",
+<<<<<<< HEAD
           "info": "Legg til kodeutdrag fra app eller en annen kode for å opprette avanserte tilpasninger. [Finn ut mer](https://shopify.dev/docs/api/liquid)"
+=======
+          "info": "Legg til kodeutdrag fra app eller en annen kode for å opprette avanserte tilpasninger. [Finn ut mer](https:\/\/shopify.dev\/docs\/api\/liquid)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         }
       },
       "presets": {
@@ -685,7 +761,11 @@
         },
         "show_image": {
           "label": "Vis fremhevet bilde",
+<<<<<<< HEAD
           "info": "Bruk et bilde med størrelsesforhold 3:2 for best resultat. [Finn ut mer](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+=======
+          "info": "Bruk et bilde med størrelsesforhold 3:2 for best resultat. [Finn ut mer](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "show_date": {
           "label": "Vis dato"
@@ -739,7 +819,11 @@
         },
         "show_rating": {
           "label": "Vis produktvurdering",
+<<<<<<< HEAD
           "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-collection-show-product-rating)"
+=======
+          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#featured-collection-show-product-rating)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "columns_desktop": {
           "label": "Antall kolonner på datamaskin"
@@ -834,14 +918,22 @@
           "name": "Merkevareinformasjon",
           "settings": {
             "paragraph": {
+<<<<<<< HEAD
               "content": "Denne blokken viser merkevareinformasjon. [Rediger merkevareinformasjon.](/editor?context=theme&category=brand%20information)"
+=======
+              "content": "Denne blokken viser merkevareinformasjon. [Rediger merkevareinformasjon.](\/editor?context=theme&category=brand%20information)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             },
             "header__1": {
               "content": "Ikoner for sosiale medier"
             },
             "show_social": {
               "label": "Vis ikoner for sosiale medier",
+<<<<<<< HEAD
               "info": "Koble til kontoer i sosiale medier i [temainnstillingene](/editor?context=theme&category=social%20media) for å vise dem."
+=======
+              "info": "Koble til kontoer i sosiale medier i [temainnstillingene](\/editor?context=theme&category=social%20media) for å vise dem."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         }
@@ -855,16 +947,25 @@
         },
         "header__1": {
           "content": "E-postregistrering",
+<<<<<<< HEAD
           "info": "Abonnenter legges automatisk til i «aksepterer markedsføring»-kundelisten. [Finn ut mer](https://help.shopify.com/manual/customers/manage-customers)"
         },
         "header__2": {
           "content": "Ikoner for sosiale medier",
           "info": "Koble til kontoer i sosiale medier i [temainnstillingene](/editor?context=theme&category=social%20media) for å vise dem."
+=======
+          "info": "Abonnenter legges automatisk til i «aksepterer markedsføring»-kundelisten. [Finn ut mer](https:\/\/help.shopify.com\/manual\/customers\/manage-customers)"
+        },
+        "header__2": {
+          "content": "Ikoner for sosiale medier",
+          "info": "Koble til kontoer i sosiale medier i [temainnstillingene](\/editor?context=theme&category=social%20media) for å vise dem."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "show_social": {
           "label": "Vis ikoner for sosiale medier"
         },
         "header__3": {
+<<<<<<< HEAD
           "content": "Land-/regionvelger"
         },
         "header__4": {
@@ -872,12 +973,25 @@
         },
         "enable_country_selector": {
           "label": "Ativer land-/regionvelger"
+=======
+          "content": "Land-\/regionvelger"
+        },
+        "header__4": {
+          "info": "Gå til [markedsinnstillingene](\/admin\/settings\/markets) for å legge til et land\/område."
+        },
+        "enable_country_selector": {
+          "label": "Ativer land-\/regionvelger"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header__5": {
           "content": "Språkvelger"
         },
         "header__6": {
+<<<<<<< HEAD
           "info": "Gå til [språkinnstillingene](/admin/settings/languages) for å legge til et språk."
+=======
+          "info": "Gå til [språkinnstillingene](\/admin\/settings\/languages) for å legge til et språk."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_language_selector": {
           "label": "Aktiver språkvelger"
@@ -893,14 +1007,22 @@
         },
         "header__8": {
           "content": "Koblinger til retningslinjer",
+<<<<<<< HEAD
           "info": "Gå til [innstillingene for retningslinjer](/admin/settings/legal) for å legge til retningslinjer i butikken."
+=======
+          "info": "Gå til [innstillingene for retningslinjer](\/admin\/settings\/legal) for å legge til retningslinjer i butikken."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "show_policy": {
           "label": "Vis koblinger til retningslinjer"
         },
         "header__9": {
           "content": "Følg på Shop",
+<<<<<<< HEAD
           "info": "Shop Pay må være aktivert for å tillate at kunder følger butikken din i Shop-appen fra butikkfronten. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+=======
+          "info": "Shop Pay må være aktivert for å tillate at kunder følger butikken din i Shop-appen fra butikkfronten. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_follow_on_shop": {
           "label": "Aktiver Følg på Shop"
@@ -960,7 +1082,11 @@
           }
         },
         "logo_help": {
+<<<<<<< HEAD
           "content": "Rediger logoen i [temainnstillingene](/editor?context=theme&category=logo)."
+=======
+          "content": "Rediger logoen i [temainnstillingene](\/editor?context=theme&category=logo)."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "sticky_header_type": {
           "label": "Festet overskrift",
@@ -978,6 +1104,7 @@
           }
         },
         "header__3": {
+<<<<<<< HEAD
           "content": "Land-/regionvelger"
         },
         "header__4": {
@@ -985,12 +1112,25 @@
         },
         "enable_country_selector": {
           "label": "Aktiver land-/regionvelger"
+=======
+          "content": "Land-\/regionvelger"
+        },
+        "header__4": {
+          "info": "Gå til [markedsinnstillinger](\/admin\/settings\/markets) for å legge til land\/region."
+        },
+        "enable_country_selector": {
+          "label": "Aktiver land-\/regionvelger"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header__5": {
           "content": "Språkvelger"
         },
         "header__6": {
+<<<<<<< HEAD
           "info": "Gå til [språkinnstillingene](/admin/settings/languages) for å legge til et språk."
+=======
+          "info": "Gå til [språkinnstillingene](\/admin\/settings\/languages) for å legge til et språk."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_language_selector": {
           "label": "Aktiver språkvelger"
@@ -1035,7 +1175,11 @@
           "options__3": {
             "label": "Middels"
           },
+<<<<<<< HEAD
           "info": "Bruk et bilde med størrelsesforhold 3:2 for best resultat. [Finn ut mer](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+=======
+          "info": "Bruk et bilde med størrelsesforhold 3:2 for best resultat. [Finn ut mer](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
           "options__4": {
             "label": "Stor"
           }
@@ -1339,7 +1483,11 @@
               "options__3": {
                 "label": "Middels"
               },
+<<<<<<< HEAD
               "info": "Bruk et bilde med størrelsesforhold 16:9 for best resultat. [Finn ut mer](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)",
+=======
+              "info": "Bruk et bilde med størrelsesforhold 16:9 for best resultat. [Finn ut mer](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
               "options__4": {
                 "label": "Stor"
               }
@@ -1364,10 +1512,17 @@
           "name": "Del",
           "settings": {
             "featured_image_info": {
+<<<<<<< HEAD
               "content": "Hvis du inkluderer en kobling i innlegg på sosiale medier, vil sidens fremhevede bilde vises som forhåndsvisningsbilde. [Finn ut mer](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)."
             },
             "title_info": {
               "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+=======
+              "content": "Hvis du inkluderer en kobling i innlegg på sosiale medier, vil sidens fremhevede bilde vises som forhåndsvisningsbilde. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
+            },
+            "title_info": {
+              "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             },
             "text": {
               "label": "Tekst"
@@ -1386,7 +1541,11 @@
           "label": "Vis fremhevet bilde"
         },
         "paragraph": {
+<<<<<<< HEAD
           "content": "Endre utdrag ved å redigere blogginnlegg. [Finn ut mer](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
+=======
+          "content": "Endre utdrag ved å redigere blogginnlegg. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "show_date": {
           "label": "Vis dato"
@@ -1418,7 +1577,11 @@
           "options__4": {
             "label": "Stor"
           },
+<<<<<<< HEAD
           "info": "Bruk et bilde med størrelsesforhold 3:2 for best resultat. [Finn ut mer](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+=======
+          "info": "Bruk et bilde med størrelsesforhold 3:2 for best resultat. [Finn ut mer](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         }
       }
     },
@@ -1440,14 +1603,22 @@
       "name": "Samlingsbanner",
       "settings": {
         "paragraph": {
+<<<<<<< HEAD
           "content": "Legg til en beskrivelse eller et bilde ved å redigere samlingen. [Finn ut mer](https://help.shopify.com/manual/products/collections/collection-layout)"
+=======
+          "content": "Legg til en beskrivelse eller et bilde ved å redigere samlingen. [Finn ut mer](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "show_collection_description": {
           "label": "Vis samlingsbeskrivelse"
         },
         "show_collection_image": {
           "label": "Vis samlingsbilde",
+<<<<<<< HEAD
           "info": "Bruk et bilde med størrelsesforhold 16:9 for best resultat. [Finn ut mer](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+=======
+          "info": "Bruk et bilde med størrelsesforhold 16:9 for best resultat. [Finn ut mer](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         }
       }
     },
@@ -1459,7 +1630,11 @@
         },
         "enable_filtering": {
           "label": "Aktiver filtrering",
+<<<<<<< HEAD
           "info": "Tilpass filtre med Search & Discovery-appen. [Finn ut mer](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
+=======
+          "info": "Tilpass filtre med Search & Discovery-appen. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_sorting": {
           "label": "Aktiver sortering"
@@ -1490,11 +1665,19 @@
         },
         "enable_tags": {
           "label": "Aktiver filtrering",
+<<<<<<< HEAD
           "info": "Tilpass filtre med Search & Discovery-appen. [Finn ut mer](https://help.shopify.com/manual/online-store/search-and-discovery/filters)"
         },
         "show_rating": {
           "label": "Vis produktvurdering",
           "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-grid-section-settings)"
+=======
+          "info": "Tilpass filtre med Search & Discovery-appen. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters)"
+        },
+        "show_rating": {
+          "label": "Vis produktvurdering",
+          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-grid-section-settings)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "columns_desktop": {
           "label": "Antall kolonner på datamaskin"
@@ -1568,7 +1751,11 @@
           "options__3": {
             "label": "Firkant"
           },
+<<<<<<< HEAD
           "info": "Legg til bilder ved å redigere samlingene dine. [Finn ut mer](https://help.shopify.com/manual/products/collections)"
+=======
+          "info": "Legg til bilder ved å redigere samlingene dine. [Finn ut mer](https:\/\/help.shopify.com\/manual\/products\/collections)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "columns_desktop": {
           "label": "Antall kolonner på datamaskin"
@@ -1654,11 +1841,19 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Vis dynamiske knapper for å gå til kassen",
+<<<<<<< HEAD
               "info": "Kundene vil se sitt foretrukne alternativ, som PayPal eller Apple Pay, av betalingsmåtene som er tilgjengelig i butikken. [Finn ut mer](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Vis skjema med mottakerinformasjon for gavekort",
               "info": "Tillat at kjøpere sender gavekort på en planlagt dato sammen med en personlig hilsen. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
+=======
+              "info": "Kundene vil se sitt foretrukne alternativ, som PayPal eller Apple Pay, av betalingsmåtene som er tilgjengelig i butikken. [Finn ut mer](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+            },
+            "show_gift_card_recipient": {
+              "label": "Vis skjema med mottakerinformasjon for gavekort",
+              "info": "Tillat at kjøpere sender gavekort på en planlagt dato sammen med en personlig hilsen. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         },
@@ -1672,10 +1867,17 @@
           "name": "Del",
           "settings": {
             "featured_image_info": {
+<<<<<<< HEAD
               "content": "Hvis du inkluderer en kobling i innlegg på sosiale medier, vil sidens fremhevede bilde vises som forhåndsvisningsbilde. [Finn ut mer](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)."
             },
             "title_info": {
               "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+=======
+              "content": "Hvis du inkluderer en kobling i innlegg på sosiale medier, vil sidens fremhevede bilde vises som forhåndsvisningsbilde. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
+            },
+            "title_info": {
+              "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             },
             "text": {
               "label": "Tekst"
@@ -1847,7 +2049,11 @@
           "name": "Produktvurdering",
           "settings": {
             "paragraph": {
+<<<<<<< HEAD
               "content": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-rating-block)"
+=======
+              "content": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         },
@@ -1855,7 +2061,11 @@
           "name": "Komplimentære produkter",
           "settings": {
             "paragraph": {
+<<<<<<< HEAD
               "content": "Legg til Search & Discovery-appen for å velge komplimentære produkter. [Finn ut mer](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+=======
+              "content": "Legg til Search & Discovery-appen for å velge komplimentære produkter. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             },
             "heading": {
               "label": "Overskrift"
@@ -1988,7 +2198,11 @@
       "settings": {
         "header": {
           "content": "Medier",
+<<<<<<< HEAD
           "info": "Finn ut mer om [medietyper.](https://help.shopify.com/manual/products/product-media)"
+=======
+          "info": "Finn ut mer om [medietyper.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_video_looping": {
           "label": "Aktiver løkkeavspilling av video"
@@ -2113,7 +2327,11 @@
         },
         "show_rating": {
           "label": "Vis produktvurdering",
+<<<<<<< HEAD
           "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#search-results-section-settings)"
+=======
+          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#search-results-section-settings)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "columns_desktop": {
           "label": "Antall kolonner på datamaskin"
@@ -2241,7 +2459,11 @@
           "label": "Gjør seksjonen til full bredde"
         },
         "paragraph": {
+<<<<<<< HEAD
           "content": "Hvert e-postabonnement oppretter en kundekonto. [Finn ut mer](https://help.shopify.com/manual/customers)"
+=======
+          "content": "Hvert e-postabonnement oppretter en kundekonto. [Finn ut mer](https:\/\/help.shopify.com\/manual\/customers)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         }
       },
       "blocks": {
@@ -2414,7 +2636,11 @@
         },
         "description": {
           "label": "Alt. tekst for video",
+<<<<<<< HEAD
           "info": "Beskriv videoen for kunder som bruker skjermlesere. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video)"
+=======
+          "info": "Beskriv videoen for kunder som bruker skjermlesere. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#video)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "image_padding": {
           "label": "Legg til bildemarg",
@@ -2497,7 +2723,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Vis dynamiske knapper for å gå til kassen",
+<<<<<<< HEAD
               "info": "Kundene vil se sitt foretrukne alternativ, som PayPal eller Apple Pay, av betalingsmåtene som er tilgjengelig i butikken. [Finn ut mer](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+=======
+              "info": "Kundene vil se sitt foretrukne alternativ, som PayPal eller Apple Pay, av betalingsmåtene som er tilgjengelig i butikken. [Finn ut mer](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         },
@@ -2508,10 +2738,17 @@
           "name": "Del",
           "settings": {
             "featured_image_info": {
+<<<<<<< HEAD
               "content": "Hvis du inkluderer en kobling i innlegg på sosiale medier, vil sidens fremhevede bilde vises som forhåndsvisningsbilde. [Finn ut mer](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)"
             },
             "title_info": {
               "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+=======
+              "content": "Hvis du inkluderer en kobling i innlegg på sosiale medier, vil sidens fremhevede bilde vises som forhåndsvisningsbilde. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
+            },
+            "title_info": {
+              "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             },
             "text": {
               "label": "Tekst"
@@ -2522,7 +2759,11 @@
           "name": "Produktvurdering",
           "settings": {
             "paragraph": {
+<<<<<<< HEAD
               "content": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#featured-product-rating)"
+=======
+              "content": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/theme-features#featured-product-rating)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
             }
           }
         },
@@ -2553,7 +2794,11 @@
         },
         "header": {
           "content": "Medier",
+<<<<<<< HEAD
           "info": "Finn ut mer om [medietyper](https://help.shopify.com/manual/products/product-media)"
+=======
+          "info": "Finn ut mer om [medietyper](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "enable_video_looping": {
           "label": "Aktiver løkkeavspilling av video"
@@ -2580,7 +2825,11 @@
       "name": "Banner for e-postregistrering",
       "settings": {
         "paragraph": {
+<<<<<<< HEAD
           "content": "Hvert e-postabonnement oppretter en kundekonto. [Finn ut mer](https://help.shopify.com/manual/customers)"
+=======
+          "content": "Hvert e-postabonnement oppretter en kundekonto. [Finn ut mer](https:\/\/help.shopify.com\/manual\/customers)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "image": {
           "label": "Bakgrunnsbilde"
@@ -2596,7 +2845,11 @@
         },
         "show_text_below": {
           "label": "Vis innhold under bildet på mobil",
+<<<<<<< HEAD
           "info": "Bruk et bilde med størrelsesforhold 16:9 for best resultat. [Finn ut mer](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+=======
+          "info": "Bruk et bilde med størrelsesforhold 16:9 for best resultat. [Finn ut mer](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "image_height": {
           "label": "Bannerhøyde",
@@ -2612,7 +2865,11 @@
           "options__4": {
             "label": "Stor"
           },
+<<<<<<< HEAD
           "info": "Bruk et bilde med størrelsesforhold 16:9 for best resultat. [Finn ut mer](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+=======
+          "info": "Bruk et bilde med størrelsesforhold 16:9 for best resultat. [Finn ut mer](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "desktop_content_position": {
           "options__1": {
@@ -3116,7 +3373,11 @@
           "label": "Antall kolonner på datamaskin"
         },
         "paragraph__1": {
+<<<<<<< HEAD
           "content": "Dynamiske anbefalinger bruker bestillings- og produktinformasjon til å endres og forbedres over tid. [Finn ut mer](https://help.shopify.com/themes/development/recommended-products)"
+=======
+          "content": "Dynamiske anbefalinger bruker bestillings- og produktinformasjon til å endres og forbedres over tid. [Finn ut mer](https:\/\/help.shopify.com\/themes\/development\/recommended-products)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header__2": {
           "content": "Produktkort"
@@ -3141,7 +3402,11 @@
         },
         "show_rating": {
           "label": "Vis produktvurdering",
+<<<<<<< HEAD
           "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/theme-structure/page-types#product-recommendations-section-settings)"
+=======
+          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-recommendations-section-settings)"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         },
         "header_mobile": {
           "content": "Mobillayout"
@@ -3325,4 +3590,8 @@
       }
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

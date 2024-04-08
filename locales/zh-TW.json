@@ -7,7 +7,11 @@
       "login_form_password_placeholder": "您的密碼",
       "login_form_error": "密碼錯誤！",
       "login_form_submit": "輸入",
+<<<<<<< HEAD
       "admin_link_html": "您是商店擁有人嗎？<a href=\"/admin\" class=\"link underlined-link\">請在此登入</a>",
+=======
+      "admin_link_html": "您是商店擁有人嗎？<a href=\"\/admin\" class=\"link underlined-link\">請在此登入<\/a>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "powered_by_shopify_html": "本商店由 {{ shopify }} 提供技術支援"
     },
     "social": {
@@ -51,7 +55,11 @@
       "close": "關閉分享"
     },
     "slider": {
+<<<<<<< HEAD
       "of": "/",
+=======
+      "of": "\/",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "next_slide": "投影片右側",
       "previous_slide": "投影片左側",
       "name": "投影播放器"
@@ -118,7 +126,11 @@
         "minimum_of": "最少 {{ quantity }} 個",
         "maximum_of": "最多 {{ quantity }} 個",
         "multiples_of": "{{ quantity }} 的倍數",
+<<<<<<< HEAD
         "in_cart_html": "購物車中有 <span class=\"quantity-cart\">{{ quantity }}</span> 個",
+=======
+        "in_cart_html": "購物車中有 <span class=\"quantity-cart\">{{ quantity }}<\/span> 個",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "note": "檢視數量規則"
       },
       "price": {
@@ -138,8 +150,13 @@
         "view_store_info": "檢視商店資訊",
         "check_other_stores": "查看其他商店的供貨情況",
         "pick_up_available": "可提供取貨服務",
+<<<<<<< HEAD
         "pick_up_available_at_html": "可提供 <span class=\"color-foreground\">{{ location_name }}</span> 的取貨服務",
         "pick_up_unavailable_at_html": "目前無法提供 <span class=\"color-foreground\">{{ location_name }}</span> 的取貨服務",
+=======
+        "pick_up_available_at_html": "可提供 <span class=\"color-foreground\">{{ location_name }}<\/span> 的取貨服務",
+        "pick_up_unavailable_at_html": "目前無法提供 <span class=\"color-foreground\">{{ location_name }}<\/span> 的取貨服務",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "unavailable": "無法載入取貨服務供應情況",
         "refresh": "重新整理"
       },
@@ -155,7 +172,11 @@
       },
       "view_full_details": "查看完整資訊",
       "include_taxes": "內含稅金。",
+<<<<<<< HEAD
       "shipping_policy_html": "結帳時計算<a href=\"{{ link }}\">運費</a>。",
+=======
+      "shipping_policy_html": "結帳時計算<a href=\"{{ link }}\">運費<\/a>。",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "choose_options": "選擇選項",
       "choose_product_options": "選擇 {{ product_name }} 的選項",
       "value_unavailable": "{{ option_value }} (無法供貨)",
@@ -171,7 +192,11 @@
         "title": "批發價",
         "note": "提供批發價",
         "minimum": "{{ quantity }}+",
+<<<<<<< HEAD
         "price_at_each": "{{ price }}/每項",
+=======
+        "price_at_each": "{{ price }}\/每項",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "price_range": "{{ minimum }} - {{ maximum }}"
       }
     },
@@ -278,9 +303,15 @@
       "empty": "您的購物車是空的",
       "cart_error": "更新購物車時發生錯誤。請再試一次。",
       "cart_quantity_error_html": "您只能將 {{ quantity }} 項商品加入您的購物車。",
+<<<<<<< HEAD
       "taxes_and_shipping_policy_at_checkout_html": "結帳時計算稅金、折扣和<a href=\"{{ link }}\">運費</a>",
       "taxes_included_but_shipping_at_checkout": "內含稅金，結帳時計算運費和折扣",
       "taxes_included_and_shipping_policy_html": "內含稅金。結帳時計算<a href=\"{{ link }}\">運費</a>和折扣。",
+=======
+      "taxes_and_shipping_policy_at_checkout_html": "結帳時計算稅金、折扣和<a href=\"{{ link }}\">運費<\/a>",
+      "taxes_included_but_shipping_at_checkout": "內含稅金，結帳時計算運費和折扣",
+      "taxes_included_and_shipping_policy_html": "內含稅金。結帳時計算<a href=\"{{ link }}\">運費<\/a>和折扣。",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "taxes_and_shipping_at_checkout": "結帳時計算稅金、折扣和運費",
       "headings": {
         "product": "產品",
@@ -292,7 +323,11 @@
       "update": "更新",
       "login": {
         "title": "是否有帳號？",
+<<<<<<< HEAD
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">登入</a>以加速結帳。"
+=======
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">登入<\/a>以加速結帳。"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       },
       "estimated_total": "估計總金額",
       "new_estimated_total": "新的估計總金額"
@@ -315,7 +350,11 @@
     "collection_template": {
       "title": "商品系列",
       "empty": "找不到任何產品",
+<<<<<<< HEAD
       "use_fewer_filters_html": "使用較少篩選條件或<a class=\"{{ class }}\" href=\"{{ link }}\">全部移除</a>"
+=======
+      "use_fewer_filters_html": "使用較少篩選條件或<a class=\"{{ class }}\" href=\"{{ link }}\">全部移除<\/a>"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     },
     "video": {
       "load_video": "載入影片：{{ description }}"
@@ -342,7 +381,11 @@
     "quick_order_list": {
       "product_total": "商品小計",
       "view_cart": "檢視購物車",
+<<<<<<< HEAD
       "each": "{{ money }}/每項",
+=======
+      "each": "{{ money }}\/每項",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "product": "商品",
       "variant": "子類",
       "variant_total": "子類總計",
@@ -362,10 +405,17 @@
     }
   },
   "localization": {
+<<<<<<< HEAD
     "country_label": "國家/地區",
     "language_label": "語言",
     "update_language": "更新語言",
     "update_country": "更新國家/地區"
+=======
+    "country_label": "國家\/地區",
+    "language_label": "語言",
+    "update_language": "更新語言",
+    "update_country": "更新國家\/地區"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
   },
   "customer": {
     "account": {
@@ -394,9 +444,15 @@
       "address1": "地址 1",
       "address2": "地址 2",
       "city": "市",
+<<<<<<< HEAD
       "country": "國家/地區",
       "province": "省",
       "zip": "郵政/郵遞區號",
+=======
+      "country": "國家\/地區",
+      "province": "省",
+      "zip": "郵政\/郵遞區號",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "phone": "電話",
       "set_default": "設為預設地址",
       "add": "新增地址",
@@ -509,4 +565,8 @@
       "collapsed": "禮品卡收件人表單已收合"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

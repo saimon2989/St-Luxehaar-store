@@ -7,7 +7,11 @@
       "login_form_password_placeholder": "Sandi Anda",
       "login_form_error": "Sandi salah!",
       "login_form_submit": "Masuk",
+<<<<<<< HEAD
       "admin_link_html": "Anda pemilik toko? <a href=\"/admin\" class=\"link underlined-link\">Login di sini</a>",
+=======
+      "admin_link_html": "Anda pemilik toko? <a href=\"\/admin\" class=\"link underlined-link\">Login di sini<\/a>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "powered_by_shopify_html": "Toko ini didukung oleh {{ shopify }}"
     },
     "social": {
@@ -118,7 +122,11 @@
         "minimum_of": "Minimum {{ quantity }}",
         "maximum_of": "Maksimum {{ quantity }}",
         "multiples_of": "Nilai peningkatan {{ quantity }}",
+<<<<<<< HEAD
         "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> di keranjang",
+=======
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> di keranjang",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "note": "Lihat aturan kuantitas"
       },
       "price": {
@@ -138,8 +146,13 @@
         "view_store_info": "Lihat informasi toko",
         "check_other_stores": "Periksa ketersediaan di toko lainnya",
         "pick_up_available": "Pengambilan tersedia",
+<<<<<<< HEAD
         "pick_up_available_at_html": "Pengambilan dapat dilakukan di <span class=\"color-foreground\">{{ location_name }}</span>",
         "pick_up_unavailable_at_html": "Saat ini, pengambilan tidak dapat dilakukan di <span class=\"color-foreground\">{{ location_name }}</span>",
+=======
+        "pick_up_available_at_html": "Pengambilan dapat dilakukan di <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Saat ini, pengambilan tidak dapat dilakukan di <span class=\"color-foreground\">{{ location_name }}<\/span>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "unavailable": "Tidak dapat memuat ketersediaan pengambilan",
         "refresh": "Muat ulang"
       },
@@ -155,7 +168,11 @@
       },
       "view_full_details": "Lihat detail lengkap",
       "include_taxes": "Termasuk pajak.",
+<<<<<<< HEAD
       "shipping_policy_html": "<a href=\"{{ link }}\">Biaya pengiriman</a> dihitung saat checkout.",
+=======
+      "shipping_policy_html": "<a href=\"{{ link }}\">Biaya pengiriman<\/a> dihitung saat checkout.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "choose_options": "Pilih opsi",
       "choose_product_options": "Pilih opsi untuk {{ product_name }}",
       "value_unavailable": "{{ option_value }} - Tidak tersedia",
@@ -171,7 +188,11 @@
         "title": "Harga Volume",
         "note": "Harga volume tersedia",
         "minimum": "{{ quantity }}+",
+<<<<<<< HEAD
         "price_at_each": "harga {{ price }}/satuan",
+=======
+        "price_at_each": "harga {{ price }}\/satuan",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "price_range": "{{ minimum }} - {{ maximum }}"
       }
     },
@@ -278,9 +299,15 @@
       "empty": "Keranjang Anda kosong",
       "cart_error": "Terjadi kesalahan saat memperbarui keranjang. Silakan coba lagi.",
       "cart_quantity_error_html": "Hanya dapat menambahkan {{ quantity }} item ini ke keranjang Anda.",
+<<<<<<< HEAD
       "taxes_and_shipping_policy_at_checkout_html": "Pajak, Diskon dan <a href=\"{{ link }}\">biaya pengiriman</a> dihitung saat checkout",
       "taxes_included_but_shipping_at_checkout": "Pajak yang berlaku dan biaya pengiriman serta diskon dihitung saat checkout",
       "taxes_included_and_shipping_policy_html": "Termasuk pajak. <a href=\"{{ link }}\">Biaya pengiriman</a> dan diskon dihitung saat checkout.",
+=======
+      "taxes_and_shipping_policy_at_checkout_html": "Pajak, Diskon dan <a href=\"{{ link }}\">biaya pengiriman<\/a> dihitung saat checkout",
+      "taxes_included_but_shipping_at_checkout": "Pajak yang berlaku dan biaya pengiriman serta diskon dihitung saat checkout",
+      "taxes_included_and_shipping_policy_html": "Termasuk pajak. <a href=\"{{ link }}\">Biaya pengiriman<\/a> dan diskon dihitung saat checkout.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "taxes_and_shipping_at_checkout": "Pajak, diskon dan biaya pengiriman dihitung saat checkout",
       "headings": {
         "product": "Produk",
@@ -292,7 +319,11 @@
       "update": "Perbarui",
       "login": {
         "title": "Sudah punya akun?",
+<<<<<<< HEAD
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Login</a> untuk checkout lebih cepat."
+=======
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Login<\/a> untuk checkout lebih cepat."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       },
       "estimated_total": "Estimasi total",
       "new_estimated_total": "Estimasi total baru"
@@ -315,7 +346,11 @@
     "collection_template": {
       "title": "Koleksi",
       "empty": "Tidak ada produk yang ditemukan",
+<<<<<<< HEAD
       "use_fewer_filters_html": "Gunakan lebih sedikit filter atau <a class=\"{{ class }}\" href=\"{{ link }}\">hapus semua</a>"
+=======
+      "use_fewer_filters_html": "Gunakan lebih sedikit filter atau <a class=\"{{ class }}\" href=\"{{ link }}\">hapus semua<\/a>"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     },
     "video": {
       "load_video": "Muat video: {{ description }}"
@@ -342,7 +377,11 @@
     "quick_order_list": {
       "product_total": "Subtotal produk",
       "view_cart": "Lihat keranjang",
+<<<<<<< HEAD
       "each": "{{ money }}/satuan",
+=======
+      "each": "{{ money }}\/satuan",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "product": "Produk",
       "variant": "Varian",
       "variant_total": "Total varian",
@@ -362,10 +401,17 @@
     }
   },
   "localization": {
+<<<<<<< HEAD
     "country_label": "Negara/Wilayah",
     "language_label": "Bahasa",
     "update_language": "Perbarui bahasa",
     "update_country": "Perbarui negara/wilayah"
+=======
+    "country_label": "Negara\/Wilayah",
+    "language_label": "Bahasa",
+    "update_language": "Perbarui bahasa",
+    "update_country": "Perbarui negara\/wilayah"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
   },
   "customer": {
     "account": {
@@ -394,7 +440,11 @@
       "address1": "Alamat 1",
       "address2": "Alamat 2",
       "city": "Kota",
+<<<<<<< HEAD
       "country": "Negara/Wilayah",
+=======
+      "country": "Negara\/Wilayah",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "province": "Provinsi",
       "zip": "Kode pos",
       "phone": "Telepon",
@@ -509,4 +559,8 @@
       "collapsed": "Formulir penerima voucher ditutup"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

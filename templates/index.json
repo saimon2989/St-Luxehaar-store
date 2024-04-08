@@ -1,5 +1,6 @@
 {
   "sections": {
+<<<<<<< HEAD
     "banner_desktop_mobile_x4Em7W": {
       "type": "banner-desktop-mobile",
       "blocks": {
@@ -66,6 +67,22 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+=======
+    "video_hFFNAh": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h0",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/Secuencia 13_4.mp4",
+        "video_url": "",
+        "cover_image": "shopify:\/\/shop_images\/BANNER-WEB.jpg",
+        "description": "video_luxehaart",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       }
     },
     "featured_collection": {
@@ -95,11 +112,36 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+<<<<<<< HEAD
     }
   },
   "order": [
     "banner_desktop_mobile_x4Em7W",
     "image_banner",
     "featured_collection"
+=======
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BANNER-WEB.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "video_hFFNAh",
+    "featured_collection",
+    "image_banner"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
   ]
 }

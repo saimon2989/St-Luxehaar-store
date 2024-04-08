@@ -7,7 +7,11 @@
       "login_form_password_placeholder": "Vaše heslo",
       "login_form_error": "Nesprávne heslo!",
       "login_form_submit": "Prejsť",
+<<<<<<< HEAD
       "admin_link_html": "Ste vlastníkom obchodu? <a href=\"/admin\" class=\"link underlined-link\">Prihláste sa tu</a>",
+=======
+      "admin_link_html": "Ste vlastníkom obchodu? <a href=\"\/admin\" class=\"link underlined-link\">Prihláste sa tu<\/a>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "powered_by_shopify_html": "Tento obchod bude používať technológiu {{ shopify }}"
     },
     "social": {
@@ -76,7 +80,11 @@
     },
     "skip_to_product_info": "Prejsť na informácie o produkte",
     "total_reviews": "celkový počet recenzií",
+<<<<<<< HEAD
     "star_reviews_info": "Počet hviezdičiek: {{ rating_value }}/{{ rating_max }}",
+=======
+    "star_reviews_info": "Počet hviezdičiek: {{ rating_value }}\/{{ rating_max }}",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     "collapsible_content_title": "Obsah s možnosťou zbalenia",
     "complementary_products": "Doplnkové produkty"
   },
@@ -127,7 +135,11 @@
         "minimum_of": "Minimálne {{ quantity }} ks",
         "maximum_of": "Maximálne {{ quantity }} ks",
         "multiples_of": "Prírastky po {{ quantity }}",
+<<<<<<< HEAD
         "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> ks v košíku",
+=======
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> ks v košíku",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "note": "Zobrazenie pravidiel týkajúcich sa množstva"
       },
       "price": {
@@ -140,8 +152,13 @@
         "view_store_info": "Zobraziť informácie o obchode",
         "check_other_stores": "Skontrolovať dostupnosť v iných obchodoch",
         "pick_up_available": "K dispozícii na vyzdvihnutie",
+<<<<<<< HEAD
         "pick_up_available_at_html": "K dispozícii na vyzdvihnutie na adrese <span class=\"color-foreground\">{{ location_name }}</span>",
         "pick_up_unavailable_at_html": "Aktuálne nedostupné na vyzdvihnutie na adrese <span class=\"color-foreground\">{{ location_name }}</span>",
+=======
+        "pick_up_available_at_html": "K dispozícii na vyzdvihnutie na adrese <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Aktuálne nedostupné na vyzdvihnutie na adrese <span class=\"color-foreground\">{{ location_name }}<\/span>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "unavailable": "Nepodarilo sa načítať dostupnosť na vyzdvihnutie",
         "refresh": "Obnoviť"
       },
@@ -157,7 +174,11 @@
       },
       "view_full_details": "Zobraziť všetky podrobnosti",
       "include_taxes": "Vrátane dane.",
+<<<<<<< HEAD
       "shipping_policy_html": "<a href=\"{{ link }}\">Doprava</a> sa vypočíta pri platbe.",
+=======
+      "shipping_policy_html": "<a href=\"{{ link }}\">Doprava<\/a> sa vypočíta pri platbe.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "choose_options": "Vybrať možnosti",
       "choose_product_options": "Vyberte možnosti pre: {{ product_name }}",
       "value_unavailable": "{{ option_value }} – nedostupné",
@@ -173,7 +194,11 @@
         "title": "Objemové ceny",
         "note": "Dostupné objemové ceny",
         "minimum": "{{ quantity }}+",
+<<<<<<< HEAD
         "price_at_each": "{{ price }}/kus",
+=======
+        "price_at_each": "{{ price }}\/kus",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "price_range": "{{ minimum }} – {{ maximum }}"
       }
     },
@@ -298,9 +323,15 @@
       "empty": "Váš košík je prázdny",
       "cart_error": "Pri aktualizácii košíka sa vyskytla chyba. Skúste to znova.",
       "cart_quantity_error_html": "Do košíka môžete túto položku pridať len v počte {{ quantity }}.",
+<<<<<<< HEAD
       "taxes_and_shipping_policy_at_checkout_html": "Dane, zľavy a <a href=\"{{ link }}\">doprava</a> sa vypočítajú pri platbe",
       "taxes_included_but_shipping_at_checkout": "Dane sa zahrnú a doprava a zľavy sa vypočítajú pri platbe",
       "taxes_included_and_shipping_policy_html": "Vrátane dane. <a href=\"{{ link }}\">Doprava</a> a zľavy sa vypočítajú pri platbe.",
+=======
+      "taxes_and_shipping_policy_at_checkout_html": "Dane, zľavy a <a href=\"{{ link }}\">doprava<\/a> sa vypočítajú pri platbe",
+      "taxes_included_but_shipping_at_checkout": "Dane sa zahrnú a doprava a zľavy sa vypočítajú pri platbe",
+      "taxes_included_and_shipping_policy_html": "Vrátane dane. <a href=\"{{ link }}\">Doprava<\/a> a zľavy sa vypočítajú pri platbe.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "taxes_and_shipping_at_checkout": "Dane, zľavy a doprava sa vypočítajú pri platbe",
       "update": "Aktualizovať",
       "headings": {
@@ -312,7 +343,11 @@
       },
       "login": {
         "title": "Máte konto?",
+<<<<<<< HEAD
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Prihláste sa</a> a prejdite pokladňou rýchlejšie."
+=======
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Prihláste sa<\/a> a prejdite pokladňou rýchlejšie."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       },
       "estimated_total": "Odhadovaná celková suma",
       "new_estimated_total": "Nová odhadovaná celková suma"
@@ -335,7 +370,11 @@
     "collection_template": {
       "title": "Kolekcia",
       "empty": "Nenašli sa žiadne produkty",
+<<<<<<< HEAD
       "use_fewer_filters_html": "Použite menej filtrov alebo <a class=\"{{ class }}\" href=\"{{ link }}\">všetky odstráňte</a>"
+=======
+      "use_fewer_filters_html": "Použite menej filtrov alebo <a class=\"{{ class }}\" href=\"{{ link }}\">všetky odstráňte<\/a>"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     },
     "video": {
       "load_video": "Načítať video: {{ description }}"
@@ -362,7 +401,11 @@
     "quick_order_list": {
       "product_total": "Medzisúčet produktov",
       "view_cart": "Zobraziť košík",
+<<<<<<< HEAD
       "each": "{{ money }}/kus",
+=======
+      "each": "{{ money }}\/kus",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "product": "Produkt",
       "variant": "Variant",
       "variant_total": "Celková suma variantov",
@@ -386,10 +429,17 @@
     }
   },
   "localization": {
+<<<<<<< HEAD
     "country_label": "Krajina/oblasť",
     "language_label": "Jazyk",
     "update_language": "Aktualizovať jazyk",
     "update_country": "Aktualizovať krajinu/oblasť"
+=======
+    "country_label": "Krajina\/oblasť",
+    "language_label": "Jazyk",
+    "update_language": "Aktualizovať jazyk",
+    "update_country": "Aktualizovať krajinu\/oblasť"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
   },
   "customer": {
     "account": {
@@ -420,7 +470,11 @@
       "address1": "Adresa 1",
       "address2": "Adresa 2",
       "city": "Mesto",
+<<<<<<< HEAD
       "country": "Krajina/oblasť",
+=======
+      "country": "Krajina\/oblasť",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "province": "Provincia",
       "zip": "Poštové smerovacie číslo",
       "phone": "Telefón",
@@ -533,4 +587,8 @@
       "collapsed": "Zbalený formulár pre príjemcu darčekového poukazu"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

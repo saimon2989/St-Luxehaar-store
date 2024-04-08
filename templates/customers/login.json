@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 {"sections":{"main":{"type":"main-login","settings":{"padding_top":36,"padding_bottom":36}}},"order":["main"]}
+=======
+{
+  "sections": {
+    "main": {
+      "type": "main-login",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

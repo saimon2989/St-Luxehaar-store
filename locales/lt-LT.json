@@ -7,7 +7,11 @@
       "login_form_password_placeholder": "Jūsų slaptažodis",
       "login_form_error": "Slaptažodis neteisingas!",
       "login_form_submit": "Įvesti",
+<<<<<<< HEAD
       "admin_link_html": "Ar esate parduotuvės savininkas? <a href=\"/admin\" class=\"link underlined-link\">Prisijunkite čia</a>",
+=======
+      "admin_link_html": "Ar esate parduotuvės savininkas? <a href=\"\/admin\" class=\"link underlined-link\">Prisijunkite čia<\/a>",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "powered_by_shopify_html": "Ši parduotuvė priklausys platformai „{{ shopify }}“"
     },
     "social": {
@@ -127,7 +131,11 @@
         "minimum_of": "Mažiausiai {{ quantity }}",
         "maximum_of": "Daugiausiai {{ quantity }}",
         "multiples_of": "Kiekis didėja kas {{ quantity }}",
+<<<<<<< HEAD
         "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> vnt. krepšelyje",
+=======
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> vnt. krepšelyje",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "note": "Peržiūrėti kiekių taisykles"
       },
       "price": {
@@ -140,8 +148,13 @@
         "view_store_info": "Žiūrėti parduotuvės informaciją",
         "check_other_stores": "Pažiūrėti, ar yra kitose parduotuvėse",
         "pick_up_available": "Galima atsiimti",
+<<<<<<< HEAD
         "pick_up_available_at_html": "Galima atsiimti <span class=\"color-foreground\">{{ location_name }}</span>",
         "pick_up_unavailable_at_html": "Šiuo metu atsiimti <span class=\"color-foreground\">{{ location_name }}</span>negalima",
+=======
+        "pick_up_available_at_html": "Galima atsiimti <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_unavailable_at_html": "Šiuo metu atsiimti <span class=\"color-foreground\">{{ location_name }}<\/span>negalima",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "unavailable": "Nepavyko įkelti atsiėmimo galimybių",
         "refresh": "Atnaujinti"
       },
@@ -157,7 +170,11 @@
       },
       "view_full_details": "Žiūrėti visą informaciją",
       "include_taxes": "Mokesčiai įtraukti.",
+<<<<<<< HEAD
       "shipping_policy_html": "<a href=\"{{ link }}\">Siuntimo išlaidos</a> apskaičiuojamos atsiskaitant.",
+=======
+      "shipping_policy_html": "<a href=\"{{ link }}\">Siuntimo išlaidos<\/a> apskaičiuojamos atsiskaitant.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "choose_options": "Rinktis variantus",
       "choose_product_options": "Rinktis {{ product_name }} variantus",
       "value_unavailable": "{{ option_value }} – neturime",
@@ -173,7 +190,11 @@
         "title": "Kiekybinė kainodara",
         "note": "Galima kiekybinė kainodara",
         "minimum": "{{ quantity }}+",
+<<<<<<< HEAD
         "price_at_each": "po {{ price }}/vnt.",
+=======
+        "price_at_each": "po {{ price }}\/vnt.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
         "price_range": "{{ minimum }}–{{ maximum }}"
       }
     },
@@ -298,9 +319,15 @@
       "empty": "Jūsų krepšelis tuščias",
       "cart_error": "Atnaujinant krepšelį įvyko klaida. Bandykite dar kartą.",
       "cart_quantity_error_html": "Į krepšelį galite įdėti tik {{ quantity }}šios prekės vnt.",
+<<<<<<< HEAD
       "taxes_and_shipping_policy_at_checkout_html": "Mokesčiai, nuolaidos ir <a href=\"{{ link }}\">siuntimo išlaidos</a> apskaičiuojami atsiskaitant",
       "taxes_included_but_shipping_at_checkout": "Mokesčiai įtraukti, o siuntimo išlaidos ir nuolaidos apskaičiuojamos atsiskaitant",
       "taxes_included_and_shipping_policy_html": "Mokesčiai įtraukti. <a href=\"{{ link }}\">Siuntimo išlaidos</a> ir nuolaidos apskaičiuojamos atsiskaitant.",
+=======
+      "taxes_and_shipping_policy_at_checkout_html": "Mokesčiai, nuolaidos ir <a href=\"{{ link }}\">siuntimo išlaidos<\/a> apskaičiuojami atsiskaitant",
+      "taxes_included_but_shipping_at_checkout": "Mokesčiai įtraukti, o siuntimo išlaidos ir nuolaidos apskaičiuojamos atsiskaitant",
+      "taxes_included_and_shipping_policy_html": "Mokesčiai įtraukti. <a href=\"{{ link }}\">Siuntimo išlaidos<\/a> ir nuolaidos apskaičiuojamos atsiskaitant.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "taxes_and_shipping_at_checkout": "Mokesčiai, nuolaidos ir siuntimo išlaidos apskaičiuojami atsiskaitant",
       "update": "Atnaujinti",
       "headings": {
@@ -312,7 +339,11 @@
       },
       "login": {
         "title": "Turite paskyrą?",
+<<<<<<< HEAD
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Prisijunkite</a> ir atsiskaitysite greičiau."
+=======
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Prisijunkite<\/a> ir atsiskaitysite greičiau."
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       },
       "estimated_total": "Apskaičiuota bendra suma",
       "new_estimated_total": "Nauja apskaičiuota bendra suma"
@@ -335,7 +366,11 @@
     "collection_template": {
       "title": "Kolekcija",
       "empty": "Nerasta jokių gaminių",
+<<<<<<< HEAD
       "use_fewer_filters_html": "Naudoti mažiau filtrų arba <a class=\"{{ class }}\" href=\"{{ link }}\">pašalinti viską</a>"
+=======
+      "use_fewer_filters_html": "Naudoti mažiau filtrų arba <a class=\"{{ class }}\" href=\"{{ link }}\">pašalinti viską<\/a>"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
     },
     "video": {
       "load_video": "Įkelti vaizdo įrašą „{{ description }}“"
@@ -362,7 +397,11 @@
     "quick_order_list": {
       "product_total": "Gaminių tarpinė suma",
       "view_cart": "Peržiūrėti krepšelį",
+<<<<<<< HEAD
       "each": "{{ money }}/vnt.",
+=======
+      "each": "{{ money }}\/vnt.",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "product": "Gaminys",
       "variant": "Variantas",
       "variant_total": "Variantų bendra suma",
@@ -386,10 +425,17 @@
     }
   },
   "localization": {
+<<<<<<< HEAD
     "country_label": "Šalis / regionas",
     "language_label": "Kalba",
     "update_language": "Atnaujinti kalbą",
     "update_country": "Atnaujinti šalį / regioną"
+=======
+    "country_label": "Šalis \/ regionas",
+    "language_label": "Kalba",
+    "update_language": "Atnaujinti kalbą",
+    "update_country": "Atnaujinti šalį \/ regioną"
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
   },
   "customer": {
     "account": {
@@ -420,7 +466,11 @@
       "address1": "1 adresas",
       "address2": "2 adresas",
       "city": "Miestas",
+<<<<<<< HEAD
       "country": "Šalis / regionas",
+=======
+      "country": "Šalis \/ regionas",
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
       "province": "Provincija",
       "zip": "Pašto kodas",
       "phone": "Telefonas",
@@ -533,4 +583,8 @@
       "collapsed": "Suskleista dovanų kortelės gavėjo forma"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0

@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 {"sections":{"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":28}}},"order":["main"]}
+=======
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
+>>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
