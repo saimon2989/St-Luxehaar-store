@@ -18,11 +18,18 @@
             "heading": "<strong>También te puede interesar<\/strong>",
             "menu": "footer"
           }
+        },
+        "brand_information_7wzcNN": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
         }
       },
       "block_order": [
         "link_list_Yh8FFb",
-        "link_list_jMMyFq"
+        "link_list_jMMyFq",
+        "brand_information_7wzcNN"
       ],
       "settings": {
         "color_scheme": "accent-1",
@@ -43,8 +50,4 @@
   "order": [
     "footer"
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
