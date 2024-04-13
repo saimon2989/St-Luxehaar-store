@@ -15,7 +15,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Ahorra 15% en pedidos superiores a $100.000 ♡ Usa el código 15OFF al finalizar la compra",
+            "text": "Ahorra 10% en pedidos superiores a $100.000 ♡ Usa el código 10OFF al finalizar la compra",
             "link": ""
           }
         }
@@ -45,7 +45,7 @@
         "color_scheme": "scheme-ba199d6d-1fb1-4b9e-ba84-f035c93f7dd3",
         "menu_color_scheme": "scheme-ba199d6d-1fb1-4b9e-ba84-f035c93f7dd3",
         "enable_country_selector": true,
-        "enable_language_selector": true,
+        "enable_language_selector": false,
         "mobile_logo_position": "center",
         "margin_bottom": 0,
         "padding_top": 20,
@@ -57,8 +57,4 @@
     "announcement-bar",
     "header"
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> c6a51f48555461564f64eb4d696172c8dfe0eed0
