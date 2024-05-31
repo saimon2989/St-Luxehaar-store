@@ -3,7 +3,7 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/BANNER-WEB.jpg",
+        "image": "shopify:\/\/shop_images\/BANNER.jpg",
         "image_link": "shopify:\/\/collections\/all",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
