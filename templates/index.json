@@ -1,10 +1,20 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner_dcf3cfba-4380-4b83-ac56-31cd90b892b7.jpg",
-        "image_link": "shopify:\/\/collections\/all",
+        "image": "shopify://shop_images/banner_dcf3cfba-4380-4b83-ac56-31cd90b892b7.jpg",
+        "image_2": "shopify://shop_images/20241004_040034671_iOS.jpg",
+        "image_link": "shopify://collections/all",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "bottom-center",
@@ -20,7 +30,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Últimos lanzamientos<\/strong>",
+        "title": "<strong>Últimos lanzamientos</strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -51,10 +61,10 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/Secuencia 13_4.mp4",
+        "video": "shopify://files/videos/Secuencia 13_4.mp4",
         "video_url": "",
         "description": "video_luxehaart",
-        "video_link": "shopify:\/\/collections\/all",
+        "video_link": "shopify://collections/all",
         "full_width": true,
         "color_scheme": "",
         "padding_top": 0,

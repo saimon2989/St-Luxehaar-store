@@ -1,8 +1,17 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/logo-st-luxehaar-dorado_1e696304-5647-4443-8f25-5791257d21e3.png",
+    "logo": "shopify://shop_images/logo-st-luxehaar-dorado_1e696304-5647-4443-8f25-5791257d21e3.png",
     "logo_width": 90,
-    "favicon": "shopify:\/\/shop_images\/FAVICON.png",
+    "favicon": "shopify://shop_images/FAVICON.png",
     "type_header_font": "noto_serif_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
@@ -99,8 +108,8 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "ST LUXE HAAR",
-    "brand_description": "<p>Es una marca que refleja elegancia, ofrece calidad a un<br\/>buen precio y se enfoca en la belleza y bienear de aquellos que usan a sus produos y servicios, es una marca natural y limpia que busca que sus<br\/>usuarios vivan una experiencia lujosa sin necesidad de gaar mucho<br\/>dinero.<\/p>",
-    "brand_image": "shopify:\/\/shop_images\/logo-st-luxehaar-dorado_1e696304-5647-4443-8f25-5791257d21e3.png",
+    "brand_description": "<p>stLUXEHAAR es una marca dedicada a quienes buscan <strong>lujo y cuidado premium</strong> en cada gota. Con fórmulas naturales y de alta calidad, ha sido creada para nutrir, fortalecer y embellecer el cabello, brindando una experiencia capilar exclusiva. Desde shampoo hasta tratamientos especializados, stLUXEHAAR transforma tu rutina en un ritual de belleza.</p>",
+    "brand_image": "shopify://shop_images/logo-st-luxehaar-dorado_1e696304-5647-4443-8f25-5791257d21e3.png",
     "brand_image_width": 100,
     "social_facebook_link": "",
     "social_instagram_link": "",
@@ -120,7 +129,7 @@
     "show_cart_note": true,
     "cart_drawer_collection": "",
     "cart_color_scheme": "scheme-ba199d6d-1fb1-4b9e-ba84-f035c93f7dd3",
-    "checkout_logo_image": "shopify:\/\/shop_images\/logo-st-luxehaar-dorado_1e696304-5647-4443-8f25-5791257d21e3.png",
+    "checkout_logo_image": "shopify://shop_images/logo-st-luxehaar-dorado_1e696304-5647-4443-8f25-5791257d21e3.png",
     "checkout_logo_position": "center",
     "checkout_accent_color": "#af8028",
     "checkout_button_color": "#af8028",
@@ -143,13 +152,13 @@
     ],
     "blocks": {
       "13768625480086291342": {
-        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {
         }
       },
       "16963237191767492405": {
-        "type": "shopify:\/\/apps\/whatsapp-button\/blocks\/app-embed-block\/96d80a63-e860-4262-a001-8b82ac4d00e6",
+        "type": "shopify://apps/whatsapp-button/blocks/app-embed-block/96d80a63-e860-4262-a001-8b82ac4d00e6",
         "disabled": false,
         "settings": {
         }
@@ -380,7 +389,7 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
