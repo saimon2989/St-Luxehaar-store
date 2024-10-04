@@ -12,8 +12,7 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/banner_dcf3cfba-4380-4b83-ac56-31cd90b892b7.jpg",
-        "image_2": "shopify://shop_images/20241004_040034671_iOS.jpg",
+        "image": "shopify://shop_images/20241004_040034671_iOS.jpg",
         "image_link": "shopify://collections/all",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
